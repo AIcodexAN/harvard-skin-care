@@ -1,0 +1,32 @@
+
+.hh-bar { position:sticky; top:0; z-index:99999; background:#7b1113; color:#fff;
+  padding:9px 18px; font-size:14px; display:flex; gap:16px; align-items:center;
+  flex-wrap:wrap; box-shadow:0 2px 8px rgba(0,0,0,.18); font-family:Arial,"Microsoft YaHei",sans-serif; }
+.hh-bar a { color:#fff; text-decoration:underline; white-space:nowrap; }
+.hh-all { position:relative; }
+.hh-bar .hh-all > summary { list-style:none; cursor:pointer; color:#fff; font-size:13px;
+  padding:5px 12px; border:1px solid rgba(255,255,255,.75); border-radius:5px;
+  white-space:nowrap; user-select:none; }
+.hh-bar .hh-all > summary::-webkit-details-marker { display:none; }
+.hh-bar .hh-all[open] > summary { background:#fff; color:#7b1113; border-color:#fff; }
+.hh-bar .hh-back { color:#fff; font-size:13px; padding:5px 12px;
+  border:1px solid rgba(255,255,255,.75); border-radius:5px; text-decoration:none; }
+.hh-bar .hh-back:hover { background:#fff; color:#7b1113; }
+.hh-panel { position:absolute; top:36px; left:0; width:min(92vw,900px);
+  max-height:74vh; overflow:auto; background:#fff; color:#222;
+  border:1px solid #ddd; border-radius:8px; box-shadow:0 14px 44px rgba(0,0,0,.32);
+  padding:14px 16px; font-size:13px; line-height:1.5; text-align:left; }
+.hh-bar .hh-panel a, .hh-panel a { color:#1a4f8b; text-decoration:none; }
+.hh-panel .hh-panel-home { display:inline-block; margin-bottom:12px; padding:6px 12px;
+  background:#7b1113; color:#fff; border-radius:5px; font-weight:bold; }
+.hh-panel h4 { margin:12px 0 6px; color:#7b1113; font-size:13px;
+  border-bottom:1px solid #eee; padding-bottom:4px; }
+.hh-panel .hh-grid { display:flex; flex-wrap:wrap; gap:4px; }
+.hh-panel .hh-grid a { display:inline-block; padding:4px 8px; border:1px solid #e6e6e6;
+  border-radius:4px; color:#1a4f8b; background:#fafafa; }
+.hh-panel .hh-grid a:hover { background:#eef4fc; }
+.hh-panel .hh-grid a.cur { background:#7b1113; color:#fff; border-color:#7b1113; }
+.hh-video { max-width:100%; width:100%; border-radius:6px; background:#000; }
+.hh-media { margin:18px 0; padding:14px; border:1px solid #e3e3e3; border-radius:8px;
+  background:#fafafa; }
+.hh-media h3 { margin:0 0 10px; font-size:16px; }

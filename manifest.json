@@ -1,0 +1,2566 @@
+{
+ "course": "Skin Care and Repair",
+ "site": "Harvard Health Publishing / Harvard Health Online Learning",
+ "source": "https://www.harvardhealthonlinelearning.com/learn/course/skin-care-and-repair",
+ "created": "2026-11-06 01:43:43",
+ "pages": [
+  {
+   "index": 0,
+   "url": "/learn/course/skin-care-and-repair/common-skin-conditions/introduction",
+   "title": "Skin Care and Repair - Introduction ",
+   "file": "p000.html",
+   "bytes": 77855,
+   "text_chars": 901,
+   "videos": [
+    "2sxv7eoqv5"
+   ]
+  },
+  {
+   "index": 1,
+   "url": "/learn/course/skin-care-and-repair/common-skin-conditions/introduction?page=1",
+   "title": "Skin Care and Repair - Introduction ",
+   "file": "p001.html",
+   "bytes": 77862,
+   "text_chars": 901,
+   "videos": [
+    "2sxv7eoqv5"
+   ]
+  },
+  {
+   "index": 2,
+   "url": "/learn/course/skin-care-and-repair/common-skin-conditions/skin-conditions-explained",
+   "title": "Skin Care and Repair - Skin Conditions Explained ",
+   "file": "p002.html",
+   "bytes": 89658,
+   "text_chars": 5179,
+   "videos": []
+  },
+  {
+   "index": 3,
+   "url": "/learn/course/skin-care-and-repair/common-skin-conditions/skin-conditions-explained?page=1",
+   "title": "Skin Care and Repair - Skin Conditions Explained ",
+   "file": "p003.html",
+   "bytes": 89665,
+   "text_chars": 5179,
+   "videos": []
+  },
+  {
+   "index": 4,
+   "url": "/learn/course/skin-care-and-repair/cosmetic-procedures/introduction",
+   "title": "Skin Care and Repair - Introduction ",
+   "file": "p004.html",
+   "bytes": 77668,
+   "text_chars": 773,
+   "videos": [
+    "xsz1lnabcw"
+   ]
+  },
+  {
+   "index": 5,
+   "url": "/learn/course/skin-care-and-repair/cosmetic-procedures/introduction?page=1",
+   "title": "Skin Care and Repair - Introduction ",
+   "file": "p005.html",
+   "bytes": 77675,
+   "text_chars": 773,
+   "videos": [
+    "xsz1lnabcw"
+   ]
+  },
+  {
+   "index": 6,
+   "url": "/learn/course/skin-care-and-repair/cosmetic-procedures/medical-help",
+   "title": "Skin Care and Repair - Medical Help ",
+   "file": "p006.html",
+   "bytes": 96729,
+   "text_chars": 7509,
+   "videos": []
+  },
+  {
+   "index": 7,
+   "url": "/learn/course/skin-care-and-repair/cosmetic-procedures/medical-help?page=1",
+   "title": "Skin Care and Repair - Medical Help ",
+   "file": "p007.html",
+   "bytes": 96736,
+   "text_chars": 7509,
+   "videos": []
+  },
+  {
+   "index": 8,
+   "url": "/learn/course/skin-care-and-repair/cosmetic-procedures/treatment-options",
+   "title": "Skin Care and Repair - Treatment Options ",
+   "file": "p008.html",
+   "bytes": 92043,
+   "text_chars": 5811,
+   "videos": []
+  },
+  {
+   "index": 9,
+   "url": "/learn/course/skin-care-and-repair/cosmetic-procedures/treatment-options?page=1",
+   "title": "Skin Care and Repair - Treatment Options ",
+   "file": "p009.html",
+   "bytes": 92050,
+   "text_chars": 5811,
+   "videos": []
+  },
+  {
+   "index": 10,
+   "url": "/learn/course/skin-care-and-repair/getting-started/about-our-course",
+   "title": "Skin Care and Repair - About Our Course ",
+   "file": "p010.html",
+   "bytes": 96002,
+   "text_chars": 1609,
+   "videos": [
+    "zvtxgacphq"
+   ]
+  },
+  {
+   "index": 11,
+   "url": "/learn/course/skin-care-and-repair/getting-started/about-our-course?page=1",
+   "title": "Skin Care and Repair - About Our Course ",
+   "file": "p011.html",
+   "bytes": 96009,
+   "text_chars": 1609,
+   "videos": [
+    "zvtxgacphq"
+   ]
+  },
+  {
+   "index": 12,
+   "url": "/learn/course/skin-care-and-repair/getting-started/about-our-course?page=2",
+   "title": "Skin Care and Repair - About Our Course ",
+   "file": "p012.html",
+   "bytes": 97578,
+   "text_chars": 2078,
+   "videos": [
+    "2dlthe486v"
+   ]
+  },
+  {
+   "index": 13,
+   "url": "/learn/course/skin-care-and-repair/getting-started/about-our-course?page=3",
+   "title": "Skin Care and Repair - About Our Course ",
+   "file": "p013.html",
+   "bytes": 115748,
+   "text_chars": 6822,
+   "videos": []
+  },
+  {
+   "index": 14,
+   "url": "/learn/course/skin-care-and-repair/getting-started/about-our-course?page=4",
+   "title": "Skin Care and Repair - About Our Course ",
+   "file": "p014.html",
+   "bytes": 105841,
+   "text_chars": 3905,
+   "videos": []
+  },
+  {
+   "index": 15,
+   "url": "/learn/course/skin-care-and-repair/getting-started/about-your-skin",
+   "title": "Skin Care and Repair - About Your Skin ",
+   "file": "p015.html",
+   "bytes": 88275,
+   "text_chars": 4329,
+   "videos": []
+  },
+  {
+   "index": 16,
+   "url": "/learn/course/skin-care-and-repair/getting-started/about-your-skin?page=1",
+   "title": "Skin Care and Repair - About Your Skin ",
+   "file": "p016.html",
+   "bytes": 88282,
+   "text_chars": 4329,
+   "videos": []
+  },
+  {
+   "index": 17,
+   "url": "/learn/course/skin-care-and-repair/key-takeaways/parting-thoughts-1",
+   "title": "Skin Care and Repair - Parting Thoughts ",
+   "file": "p017.html",
+   "bytes": 80854,
+   "text_chars": 1898,
+   "videos": []
+  },
+  {
+   "index": 18,
+   "url": "/learn/course/skin-care-and-repair/key-takeaways/parting-thoughts-1?page=1",
+   "title": "Skin Care and Repair - Parting Thoughts ",
+   "file": "p018.html",
+   "bytes": 80861,
+   "text_chars": 1898,
+   "videos": []
+  },
+  {
+   "index": 19,
+   "url": "/learn/course/skin-care-and-repair/key-takeaways/quiz",
+   "title": "Skin Care and Repair - Quiz ",
+   "file": "p019.html",
+   "bytes": 75252,
+   "text_chars": 474,
+   "videos": []
+  },
+  {
+   "index": 20,
+   "url": "/learn/course/skin-care-and-repair/key-takeaways/quiz?page=1",
+   "title": "Skin Care and Repair - Quiz ",
+   "file": "p020.html",
+   "bytes": 75229,
+   "text_chars": 474,
+   "videos": []
+  },
+  {
+   "index": 21,
+   "url": "/learn/course/skin-care-and-repair/key-takeaways/summary",
+   "title": "Skin Care and Repair - Summary ",
+   "file": "p021.html",
+   "bytes": 77538,
+   "text_chars": 753,
+   "videos": [
+    "ki3sv0n6d7"
+   ]
+  },
+  {
+   "index": 22,
+   "url": "/learn/course/skin-care-and-repair/key-takeaways/summary?page=1",
+   "title": "Skin Care and Repair - Summary ",
+   "file": "p022.html",
+   "bytes": 77545,
+   "text_chars": 753,
+   "videos": [
+    "ki3sv0n6d7"
+   ]
+  },
+  {
+   "index": 23,
+   "url": "/learn/course/skin-care-and-repair/notes",
+   "title": "Skin Care and Repair - Summary ",
+   "file": "p023.html",
+   "bytes": 77964,
+   "text_chars": 489,
+   "videos": []
+  },
+  {
+   "index": 24,
+   "url": "/learn/course/skin-care-and-repair/skin-cancer/introduction",
+   "title": "Skin Care and Repair - Introduction ",
+   "file": "p024.html",
+   "bytes": 77715,
+   "text_chars": 907,
+   "videos": [
+    "0bklqmi7oo"
+   ]
+  },
+  {
+   "index": 25,
+   "url": "/learn/course/skin-care-and-repair/skin-cancer/introduction?page=1",
+   "title": "Skin Care and Repair - Introduction ",
+   "file": "p025.html",
+   "bytes": 77722,
+   "text_chars": 907,
+   "videos": [
+    "0bklqmi7oo"
+   ]
+  },
+  {
+   "index": 26,
+   "url": "/learn/course/skin-care-and-repair/skin-cancer/skin-cancer-defined",
+   "title": "Skin Care and Repair - Skin Cancer Defined ",
+   "file": "p026.html",
+   "bytes": 83186,
+   "text_chars": 2465,
+   "videos": []
+  },
+  {
+   "index": 27,
+   "url": "/learn/course/skin-care-and-repair/skin-cancer/skin-cancer-defined?page=1",
+   "title": "Skin Care and Repair - Skin Cancer Defined ",
+   "file": "p027.html",
+   "bytes": 83193,
+   "text_chars": 2465,
+   "videos": []
+  },
+  {
+   "index": 28,
+   "url": "/learn/course/skin-care-and-repair/skin-cancer/skin-scans-and-exams",
+   "title": "Skin Care and Repair - Skin Scans and Exams ",
+   "file": "p028.html",
+   "bytes": 78412,
+   "text_chars": 2200,
+   "videos": []
+  },
+  {
+   "index": 29,
+   "url": "/learn/course/skin-care-and-repair/skin-cancer/skin-scans-and-exams?page=1",
+   "title": "Skin Care and Repair - Skin Scans and Exams ",
+   "file": "p029.html",
+   "bytes": 78419,
+   "text_chars": 2200,
+   "videos": []
+  },
+  {
+   "index": 30,
+   "url": "/learn/course/skin-care-and-repair/skin-protection-lotions-potions-and-more/introduction",
+   "title": "Skin Care and Repair - Introduction ",
+   "file": "p030.html",
+   "bytes": 77863,
+   "text_chars": 1001,
+   "videos": [
+    "gnlhatugki"
+   ]
+  },
+  {
+   "index": 31,
+   "url": "/learn/course/skin-care-and-repair/skin-protection-lotions-potions-and-more/introduction?page=1",
+   "title": "Skin Care and Repair - Introduction ",
+   "file": "p031.html",
+   "bytes": 77870,
+   "text_chars": 1001,
+   "videos": [
+    "gnlhatugki"
+   ]
+  },
+  {
+   "index": 32,
+   "url": "/learn/course/skin-care-and-repair/skin-protection-lotions-potions-and-more/lotions-and-potions",
+   "title": "Skin Care and Repair - Lotions and Potions ",
+   "file": "p032.html",
+   "bytes": 78752,
+   "text_chars": 1869,
+   "videos": []
+  },
+  {
+   "index": 33,
+   "url": "/learn/course/skin-care-and-repair/skin-protection-lotions-potions-and-more/lotions-and-potions?page=1",
+   "title": "Skin Care and Repair - Lotions and Potions ",
+   "file": "p033.html",
+   "bytes": 78759,
+   "text_chars": 1869,
+   "videos": []
+  },
+  {
+   "index": 34,
+   "url": "/learn/course/skin-care-and-repair/skin-protection-lotions-potions-and-more/sources-of-skin-damage",
+   "title": "Skin Care and Repair - Sources of Skin Damage ",
+   "file": "p034.html",
+   "bytes": 80273,
+   "text_chars": 2924,
+   "videos": []
+  },
+  {
+   "index": 35,
+   "url": "/learn/course/skin-care-and-repair/skin-protection-lotions-potions-and-more/sources-of-skin-damage?page=1",
+   "title": "Skin Care and Repair - Sources of Skin Damage ",
+   "file": "p035.html",
+   "bytes": 80280,
+   "text_chars": 2924,
+   "videos": []
+  },
+  {
+   "index": 36,
+   "url": "/learn/course/skin-care-and-repair/skin-protection-lotions-potions-and-more/what-you-can-do",
+   "title": "Skin Care and Repair - What You Can Do ",
+   "file": "p036.html",
+   "bytes": 81778,
+   "text_chars": 2188,
+   "videos": []
+  },
+  {
+   "index": 37,
+   "url": "/learn/course/skin-care-and-repair/skin-protection-lotions-potions-and-more/what-you-can-do?page=1",
+   "title": "Skin Care and Repair - What You Can Do ",
+   "file": "p037.html",
+   "bytes": 81785,
+   "text_chars": 2188,
+   "videos": []
+  },
+  {
+   "index": 38,
+   "url": "/learn/course/skin-care-and-repair/skin-protection-lotions-potions-and-more/whats-inside-product-ingredients",
+   "title": "Skin Care and Repair - What's Inside? Product Ingredients ",
+   "file": "p038.html",
+   "bytes": 95445,
+   "text_chars": 3482,
+   "videos": []
+  },
+  {
+   "index": 39,
+   "url": "/learn/course/skin-care-and-repair/skin-protection-lotions-potions-and-more/whats-inside-product-ingredients?page=1",
+   "title": "Skin Care and Repair - What's Inside? Product Ingredients ",
+   "file": "p039.html",
+   "bytes": 95452,
+   "text_chars": 3482,
+   "videos": []
+  },
+  {
+   "index": 40,
+   "url": "/learn/course/skin-care-and-repair",
+   "title": "Skin Care and Repair - About Our Course ",
+   "file": "p040.html",
+   "bytes": 77690,
+   "text_chars": 1051,
+   "videos": [
+    "zvtxgacphq"
+   ]
+  },
+  {
+   "index": 41,
+   "url": "/learn/course/skin-care-and-repair/common-skin-conditions/skin-conditions-explained?page=2",
+   "title": "Skin Care and Repair - Skin Conditions Explained ",
+   "file": "p041.html",
+   "bytes": 84109,
+   "text_chars": 3002,
+   "videos": []
+  },
+  {
+   "index": 42,
+   "url": "/learn/course/skin-care-and-repair/cosmetic-procedures/introduction?page=2",
+   "title": "Skin Care and Repair - Introduction ",
+   "file": "p042.html",
+   "bytes": 83947,
+   "text_chars": 3618,
+   "videos": []
+  },
+  {
+   "index": 43,
+   "url": "/learn/course/skin-care-and-repair/cosmetic-procedures/introduction?page=3",
+   "title": "Skin Care and Repair - Introduction ",
+   "file": "p043.html",
+   "bytes": 75301,
+   "text_chars": 619,
+   "videos": []
+  },
+  {
+   "index": 44,
+   "url": "/learn/course/skin-care-and-repair/cosmetic-procedures/medical-help?page=2",
+   "title": "Skin Care and Repair - Medical Help ",
+   "file": "p044.html",
+   "bytes": 78889,
+   "text_chars": 2497,
+   "videos": []
+  },
+  {
+   "index": 45,
+   "url": "/learn/course/skin-care-and-repair/cosmetic-procedures/treatment-options?page=2",
+   "title": "Skin Care and Repair - Treatment Options ",
+   "file": "p045.html",
+   "bytes": 89066,
+   "text_chars": 4627,
+   "videos": []
+  },
+  {
+   "index": 46,
+   "url": "/learn/course/skin-care-and-repair/getting-started/about-your-skin?page=2",
+   "title": "Skin Care and Repair - About Your Skin ",
+   "file": "p046.html",
+   "bytes": 79013,
+   "text_chars": 950,
+   "videos": []
+  },
+  {
+   "index": 47,
+   "url": "/learn/course/skin-care-and-repair/getting-started/about-your-skin?page=3",
+   "title": "Skin Care and Repair - About Your Skin ",
+   "file": "p047.html",
+   "bytes": 81328,
+   "text_chars": 872,
+   "videos": []
+  },
+  {
+   "index": 48,
+   "url": "/learn/course/skin-care-and-repair/key-takeaways/summary?page=2",
+   "title": "Skin Care and Repair - Summary ",
+   "file": "p048.html",
+   "bytes": 81094,
+   "text_chars": 2031,
+   "videos": []
+  },
+  {
+   "index": 49,
+   "url": "/learn/course/skin-care-and-repair/skin-cancer/skin-cancer-defined?page=2",
+   "title": "Skin Care and Repair - Skin Cancer Defined ",
+   "file": "p049.html",
+   "bytes": 85065,
+   "text_chars": 3844,
+   "videos": []
+  },
+  {
+   "index": 50,
+   "url": "/learn/course/skin-care-and-repair/skin-cancer/skin-cancer-defined?page=6",
+   "title": "Skin Care and Repair - Skin Cancer Defined ",
+   "file": "p050.html",
+   "bytes": 83361,
+   "text_chars": 3479,
+   "videos": []
+  },
+  {
+   "index": 51,
+   "url": "/learn/course/skin-care-and-repair/skin-cancer/skin-scans-and-exams?page=2",
+   "title": "Skin Care and Repair - Skin Scans and Exams ",
+   "file": "p051.html",
+   "bytes": 86558,
+   "text_chars": 2587,
+   "videos": []
+  },
+  {
+   "index": 52,
+   "url": "/learn/course/skin-care-and-repair/skin-protection-lotions-potions-and-more/introduction?page=2",
+   "title": "Skin Care and Repair - Introduction ",
+   "file": "p052.html",
+   "bytes": 81961,
+   "text_chars": 1340,
+   "videos": []
+  },
+  {
+   "index": 53,
+   "url": "/learn/course/skin-care-and-repair/skin-protection-lotions-potions-and-more/lotions-and-potions?page=2",
+   "title": "Skin Care and Repair - Lotions and Potions ",
+   "file": "p053.html",
+   "bytes": 79862,
+   "text_chars": 3384,
+   "videos": []
+  },
+  {
+   "index": 54,
+   "url": "/learn/course/skin-care-and-repair/skin-protection-lotions-potions-and-more/lotions-and-potions?page=3",
+   "title": "Skin Care and Repair - Lotions and Potions ",
+   "file": "p054.html",
+   "bytes": 81780,
+   "text_chars": 1174,
+   "videos": []
+  },
+  {
+   "index": 55,
+   "url": "/learn/course/skin-care-and-repair/skin-protection-lotions-potions-and-more/lotions-and-potions?page=4",
+   "title": "Skin Care and Repair - Lotions and Potions ",
+   "file": "p055.html",
+   "bytes": 79242,
+   "text_chars": 2458,
+   "videos": []
+  },
+  {
+   "index": 56,
+   "url": "/learn/course/skin-care-and-repair/skin-protection-lotions-potions-and-more/lotions-and-potions?page=5",
+   "title": "Skin Care and Repair - Lotions and Potions ",
+   "file": "p056.html",
+   "bytes": 80134,
+   "text_chars": 2630,
+   "videos": []
+  },
+  {
+   "index": 57,
+   "url": "/learn/course/skin-care-and-repair/skin-protection-lotions-potions-and-more/lotions-and-potions?page=8",
+   "title": "Skin Care and Repair - Lotions and Potions ",
+   "file": "p057.html",
+   "bytes": 78598,
+   "text_chars": 3339,
+   "videos": []
+  },
+  {
+   "index": 58,
+   "url": "/learn/course/skin-care-and-repair/skin-protection-lotions-potions-and-more/sources-of-skin-damage?page=2",
+   "title": "Skin Care and Repair - Sources of Skin Damage ",
+   "file": "p058.html",
+   "bytes": 81903,
+   "text_chars": 995,
+   "videos": []
+  },
+  {
+   "index": 59,
+   "url": "/learn/course/skin-care-and-repair/skin-protection-lotions-potions-and-more/sources-of-skin-damage?page=3",
+   "title": "Skin Care and Repair - Sources of Skin Damage ",
+   "file": "p059.html",
+   "bytes": 90153,
+   "text_chars": 2226,
+   "videos": []
+  },
+  {
+   "index": 60,
+   "url": "/learn/course/skin-care-and-repair/common-skin-conditions/skin-conditions-explained?page=3",
+   "title": "Skin Care and Repair - Skin Conditions Explained ",
+   "file": "p060.html",
+   "bytes": 75762,
+   "text_chars": 896,
+   "videos": []
+  },
+  {
+   "index": 61,
+   "url": "/learn/course/skin-care-and-repair/cosmetic-procedures/treatment-options?page=3",
+   "title": "Skin Care and Repair - Treatment Options ",
+   "file": "p061.html",
+   "bytes": 82006,
+   "text_chars": 3167,
+   "videos": []
+  },
+  {
+   "index": 62,
+   "url": "/learn/course/skin-care-and-repair/cosmetic-procedures/treatment-options?page=4",
+   "title": "Skin Care and Repair - Treatment Options ",
+   "file": "p062.html",
+   "bytes": 100397,
+   "text_chars": 7431,
+   "videos": []
+  },
+  {
+   "index": 63,
+   "url": "/learn/course/skin-care-and-repair/protecting-your-skin-lotions-potions-and-more/lotions-and-potions?page=6",
+   "title": "Skin Care and Repair - Treatment Options ",
+   "file": "p063.html",
+   "bytes": 66233,
+   "text_chars": 216,
+   "videos": []
+  },
+  {
+   "index": 64,
+   "url": "/learn/course/skin-care-and-repair/resources/how-to-quit-smoking/all",
+   "title": "Skin Care and Repair - Treatment Options ",
+   "file": "p064.html",
+   "bytes": 73345,
+   "text_chars": 391,
+   "videos": []
+  },
+  {
+   "index": 65,
+   "url": "/learn/course/skin-care-and-repair/skin-cancer/skin-cancer-defined?page=3",
+   "title": "Skin Care and Repair - Skin Cancer Defined ",
+   "file": "p065.html",
+   "bytes": 90347,
+   "text_chars": 4759,
+   "videos": []
+  },
+  {
+   "index": 66,
+   "url": "/learn/course/skin-care-and-repair/skin-cancer/skin-cancer-defined?page=5",
+   "title": "Skin Care and Repair - Skin Cancer Defined ",
+   "file": "p066.html",
+   "bytes": 75390,
+   "text_chars": 603,
+   "videos": []
+  },
+  {
+   "index": 67,
+   "url": "/learn/course/skin-care-and-repair/skin-cancer/skin-scans-and-exams/completed?page=2",
+   "title": "Skin Care and Repair - Skin Scans and Exams ",
+   "file": "p067.html",
+   "bytes": 90092,
+   "text_chars": 2752,
+   "videos": []
+  },
+  {
+   "index": 68,
+   "url": "/learn/course/skin-care-and-repair/skin-protection-lotions-potions-and-more/lotions-and-potions?page=6",
+   "title": "Skin Care and Repair - Lotions and Potions ",
+   "file": "p068.html",
+   "bytes": 81977,
+   "text_chars": 2476,
+   "videos": []
+  },
+  {
+   "index": 69,
+   "url": "/learn/course/skin-care-and-repair/skin-protection-lotions-potions-and-more/lotions-and-potions?page=7",
+   "title": "Skin Care and Repair - Lotions and Potions ",
+   "file": "p069.html",
+   "bytes": 81631,
+   "text_chars": 2118,
+   "videos": []
+  },
+  {
+   "index": 70,
+   "url": "/learn/course/skin-care-and-repair/common-skin-conditions/skin-conditions-explained?page=4",
+   "title": "Skin Care and Repair - Skin Conditions Explained ",
+   "file": "p070.html",
+   "bytes": 84045,
+   "text_chars": 3126,
+   "videos": []
+  },
+  {
+   "index": 71,
+   "url": "/learn/course/skin-care-and-repair/cosmetic-procedures/treatment-options?page=5",
+   "title": "Skin Care and Repair - Treatment Options ",
+   "file": "p071.html",
+   "bytes": 98455,
+   "text_chars": 8586,
+   "videos": []
+  },
+  {
+   "index": 72,
+   "url": "/learn/course/skin-care-and-repair/cosmetic-procedures/treatment-options?page=6",
+   "title": "Skin Care and Repair - Treatment Options ",
+   "file": "p072.html",
+   "bytes": 75279,
+   "text_chars": 598,
+   "videos": []
+  },
+  {
+   "index": 73,
+   "url": "/learn/course/skin-care-and-repair/resources/how-to-quit-smoking/how-to-quit-smoking/smoking-cessation-tips",
+   "title": "Skin Care and Repair - Treatment Options ",
+   "file": "p073.html",
+   "bytes": 98096,
+   "text_chars": 3406,
+   "videos": []
+  },
+  {
+   "index": 74,
+   "url": "/learn/course/skin-care-and-repair/resources/how-to-quit-smoking/how-to-quit-smoking/smoking-the-quick-benefits-of-quitting",
+   "title": "Skin Care and Repair - Treatment Options ",
+   "file": "p074.html",
+   "bytes": 85537,
+   "text_chars": 2169,
+   "videos": []
+  },
+  {
+   "index": 75,
+   "url": "/learn/course/skin-care-and-repair/skin-cancer/skin-cancer-defined?page=4",
+   "title": "Skin Care and Repair - Skin Cancer Defined ",
+   "file": "p075.html",
+   "bytes": 81308,
+   "text_chars": 871,
+   "videos": []
+  },
+  {
+   "index": 76,
+   "url": "/learn/course/skin-care-and-repair/skin-protection-lotions-potions-and-more/first-lesson?page=2",
+   "title": "Skin Care and Repair - Introduction ",
+   "file": "p076.html",
+   "bytes": 77900,
+   "text_chars": 1001,
+   "videos": [
+    "gnlhatugki"
+   ]
+  },
+  {
+   "index": 77,
+   "url": "/learn/course/skin-care-and-repair/common-skin-conditions/skin-conditions-explained?page=5",
+   "title": "Skin Care and Repair - Skin Conditions Explained ",
+   "file": "p077.html",
+   "bytes": 85965,
+   "text_chars": 4269,
+   "videos": []
+  },
+  {
+   "index": 78,
+   "url": "/learn/course/skin-care-and-repair/cosmetic-procedures/treatment-options?page=7",
+   "title": "Skin Care and Repair - Treatment Options ",
+   "file": "p078.html",
+   "bytes": 80247,
+   "text_chars": 2893,
+   "videos": []
+  },
+  {
+   "index": 79,
+   "url": "/learn/course/skin-care-and-repair/resources/how-to-quit-smoking/how-to-quit-smoking",
+   "title": "Skin Care and Repair - Treatment Options ",
+   "file": "p079.html",
+   "bytes": 73243,
+   "text_chars": 387,
+   "videos": []
+  },
+  {
+   "index": 80,
+   "url": "/learn/course/skin-care-and-repair/common-skin-conditions/skin-conditions-explained?page=6",
+   "title": "Skin Care and Repair - Skin Conditions Explained ",
+   "file": "p080.html",
+   "bytes": 85611,
+   "text_chars": 4180,
+   "videos": []
+  },
+  {
+   "index": 81,
+   "url": "/learn/course/skin-care-and-repair/cosmetic-procedures/treatment-options?page=8",
+   "title": "Skin Care and Repair - Treatment Options ",
+   "file": "p081.html",
+   "bytes": 79202,
+   "text_chars": 676,
+   "videos": []
+  },
+  {
+   "index": 82,
+   "url": "/learn/course/skin-care-and-repair/common-skin-conditions/skin-conditions-explained?page=7",
+   "title": "Skin Care and Repair - Skin Conditions Explained ",
+   "file": "p082.html",
+   "bytes": 81263,
+   "text_chars": 846,
+   "videos": []
+  },
+  {
+   "index": 83,
+   "url": "/learn/course/skin-care-and-repair/cosmetic-procedures/treatment-options?page=9",
+   "title": "Skin Care and Repair - Treatment Options ",
+   "file": "p083.html",
+   "bytes": 86428,
+   "text_chars": 5280,
+   "videos": []
+  },
+  {
+   "index": 84,
+   "url": "/learn/course/skin-care-and-repair/cosmetic-procedures/treatment-options?page=10",
+   "title": "Skin Care and Repair - Treatment Options ",
+   "file": "p084.html",
+   "bytes": 93553,
+   "text_chars": 5201,
+   "videos": []
+  },
+  {
+   "index": 85,
+   "url": "/learn/course/skin-care-and-repair/cosmetic-procedures/treatment-options/completed?page=10",
+   "title": "Skin Care and Repair - Treatment Options ",
+   "file": "p085.html",
+   "bytes": 96999,
+   "text_chars": 5344,
+   "videos": []
+  },
+  {
+   "index": 86,
+   "url": "/learn/course/skin-care-and-repair/key-takeaways/first-lesson?page=10",
+   "title": "Skin Care and Repair - Summary ",
+   "file": "p086.html",
+   "bytes": 77551,
+   "text_chars": 753,
+   "videos": [
+    "ki3sv0n6d7"
+   ]
+  }
+ ],
+ "videos": [
+  {
+   "id": "0bklqmi7oo",
+   "name": "SKIN-Sec3.mp4",
+   "duration": 187.104,
+   "width": 1280,
+   "height": 720,
+   "mp4_url": "https://embed-ssl.wistia.com/deliveries/8cac3cb8a604908a59cd63f6a08790820493bdab.bin",
+   "still_url": "https://embed-ssl.wistia.com/deliveries/99ec3565bd18bcaadb6c924bbf1483bc68d044c6.bin",
+   "assets": {
+    "original": "https://embed-ssl.wistia.com/deliveries/aaaa38a9d0b04975843536cbcaa26f51.bin",
+    "iphone_video": "https://embed-ssl.wistia.com/deliveries/66a320b218c3b8eb3c63c4d14ddef93ba87b0bb6.bin",
+    "mp4_video": "https://embed-ssl.wistia.com/deliveries/1c0f656ee6f1b300c7c7f30f55029e623d9565a8.bin",
+    "md_mp4_video": "https://embed-ssl.wistia.com/deliveries/748db6822b837a5604f083c6c65733bccc544b81.bin",
+    "hd_mp4_video": "https://embed-ssl.wistia.com/deliveries/8cac3cb8a604908a59cd63f6a08790820493bdab.bin",
+    "still_image": "https://embed-ssl.wistia.com/deliveries/99ec3565bd18bcaadb6c924bbf1483bc68d044c6.bin",
+    "storyboard": "https://embed-ssl.wistia.com/deliveries/4806ce0b4c17c2963d754d9db7e0ed2840522b0e.bin"
+   },
+   "file": "0bklqmi7oo_SKIN-Sec3.mp4",
+   "bytes": 36232779,
+   "still_file": "0bklqmi7oo.jpg",
+   "m3u8": [
+    "https://embed-ssl.wistia.com/deliveries/8cac3cb8a604908a59cd63f6a08790820493bdab.m3u8"
+   ]
+  },
+  {
+   "id": "2dlthe486v",
+   "name": "General Online course instructions.REVISED.mp4",
+   "duration": 140.941,
+   "width": 960,
+   "height": 540,
+   "mp4_url": "https://embed-ssl.wistia.com/deliveries/b7e61e321508fca5652aea06a12832e062f97fe9.bin",
+   "still_url": "https://embed-ssl.wistia.com/deliveries/e490a066d5077afeca85525d39318e7d30665488.bin",
+   "assets": {
+    "original": "https://embed-ssl.wistia.com/deliveries/02063f4776075da9894227d01214a337.bin",
+    "iphone_video": "https://embed-ssl.wistia.com/deliveries/234f696650cb3dfa5c5631834d63931e30001e25.bin",
+    "mp4_video": "https://embed-ssl.wistia.com/deliveries/e2aabdd67da933d2288eb3523f566af3b92eebca.bin",
+    "md_mp4_video": "https://embed-ssl.wistia.com/deliveries/b7e61e321508fca5652aea06a12832e062f97fe9.bin",
+    "still_image": "https://embed-ssl.wistia.com/deliveries/e490a066d5077afeca85525d39318e7d30665488.bin",
+    "storyboard": "https://embed-ssl.wistia.com/deliveries/f0cd264b5d861d05030c9df95fdda500a9eea6ef.bin"
+   },
+   "file": "2dlthe486v_General_Online_course_instructions.REVISED.mp4",
+   "bytes": 6700420,
+   "still_file": "2dlthe486v.jpg",
+   "m3u8": [
+    "https://embed-ssl.wistia.com/deliveries/b7e61e321508fca5652aea06a12832e062f97fe9.m3u8"
+   ]
+  },
+  {
+   "id": "2sxv7eoqv5",
+   "name": "SKIN-Sec2.mp4",
+   "duration": 148.699,
+   "width": 1280,
+   "height": 720,
+   "mp4_url": "https://embed-ssl.wistia.com/deliveries/7eb1e189f3dc2fa7f231bf4358f44a464dec9d76.bin",
+   "still_url": "https://embed-ssl.wistia.com/deliveries/426cd290e67aa7461a2e7464ba6b987d4337d02a.bin",
+   "assets": {
+    "original": "https://embed-ssl.wistia.com/deliveries/30b13554d0750e2ddc6b685f1479a7c8.bin",
+    "iphone_video": "https://embed-ssl.wistia.com/deliveries/0911e8c442036a2a333830b451482a3d846263a0.bin",
+    "mp4_video": "https://embed-ssl.wistia.com/deliveries/47cb9035df99f5d4b4f0e3af0b81bc942cfd00b8.bin",
+    "md_mp4_video": "https://embed-ssl.wistia.com/deliveries/330ee786282441de3b19d064937d3f93baa20c27.bin",
+    "hd_mp4_video": "https://embed-ssl.wistia.com/deliveries/7eb1e189f3dc2fa7f231bf4358f44a464dec9d76.bin",
+    "still_image": "https://embed-ssl.wistia.com/deliveries/426cd290e67aa7461a2e7464ba6b987d4337d02a.bin",
+    "storyboard": "https://embed-ssl.wistia.com/deliveries/23d1d6354f77ec630698556101cb16b828928949.bin"
+   },
+   "file": "2sxv7eoqv5_SKIN-Sec2.mp4",
+   "bytes": 26076942,
+   "still_file": "2sxv7eoqv5.jpg",
+   "m3u8": [
+    "https://embed-ssl.wistia.com/deliveries/7eb1e189f3dc2fa7f231bf4358f44a464dec9d76.m3u8"
+   ]
+  },
+  {
+   "id": "gnlhatugki",
+   "name": "SKIN-Sec4.mp4",
+   "duration": 216.934,
+   "width": 1280,
+   "height": 720,
+   "mp4_url": "https://embed-ssl.wistia.com/deliveries/034a991f0c7b84deb26ff2788c14aa1e397fc0ba.bin",
+   "still_url": "https://embed-ssl.wistia.com/deliveries/2816b1d69a009866750595fb3623044c9d5adc56.bin",
+   "assets": {
+    "original": "https://embed-ssl.wistia.com/deliveries/a3e06986b08020f423ccb7b83d5d4a78.bin",
+    "iphone_video": "https://embed-ssl.wistia.com/deliveries/e7a3b1a7727a8223b9925d7a5ff37ec7309cf7e1.bin",
+    "mp4_video": "https://embed-ssl.wistia.com/deliveries/6d490736acd2868c911563f4daf0edc60b6210ea.bin",
+    "md_mp4_video": "https://embed-ssl.wistia.com/deliveries/75e1106d9f4410aa8f7f624c5f96880480d27a42.bin",
+    "hd_mp4_video": "https://embed-ssl.wistia.com/deliveries/034a991f0c7b84deb26ff2788c14aa1e397fc0ba.bin",
+    "still_image": "https://embed-ssl.wistia.com/deliveries/2816b1d69a009866750595fb3623044c9d5adc56.bin",
+    "storyboard": "https://embed-ssl.wistia.com/deliveries/26561c2b57bea94af90a8d7fe1cb4b1bd50fce09.bin"
+   },
+   "file": "gnlhatugki_SKIN-Sec4.mp4",
+   "bytes": 46983964,
+   "still_file": "gnlhatugki.jpg",
+   "m3u8": [
+    "https://embed-ssl.wistia.com/deliveries/034a991f0c7b84deb26ff2788c14aa1e397fc0ba.m3u8"
+   ]
+  },
+  {
+   "id": "ki3sv0n6d7",
+   "name": "SKIN-Sec6.mp4",
+   "duration": 138.022,
+   "width": 1280,
+   "height": 720,
+   "mp4_url": "https://embed-ssl.wistia.com/deliveries/1da2ba7897c09d484a5f987e5875b9ae80a52036.bin",
+   "still_url": "https://embed-ssl.wistia.com/deliveries/d27bff3698f775da04ebdaaa59f912715363b9f2.bin",
+   "assets": {
+    "original": "https://embed-ssl.wistia.com/deliveries/f56e549e11f17b450c1fc07eeb19aaa9.bin",
+    "iphone_video": "https://embed-ssl.wistia.com/deliveries/d7acf4ec14289ea3003eed2816c8777e9de0f7f4.bin",
+    "mp4_video": "https://embed-ssl.wistia.com/deliveries/c417f49420f7c318ca3d1462ff02706dd149c537.bin",
+    "md_mp4_video": "https://embed-ssl.wistia.com/deliveries/6a74af7dc80e1dad0d98dc46c13777bec70a0e06.bin",
+    "hd_mp4_video": "https://embed-ssl.wistia.com/deliveries/1da2ba7897c09d484a5f987e5875b9ae80a52036.bin",
+    "still_image": "https://embed-ssl.wistia.com/deliveries/d27bff3698f775da04ebdaaa59f912715363b9f2.bin",
+    "storyboard": "https://embed-ssl.wistia.com/deliveries/07ae15bd92859c124c362b5e0bd5ef53b4b5de79.bin"
+   },
+   "file": "ki3sv0n6d7_SKIN-Sec6.mp4",
+   "bytes": 23645471,
+   "still_file": "ki3sv0n6d7.jpg",
+   "m3u8": [
+    "https://embed-ssl.wistia.com/deliveries/1da2ba7897c09d484a5f987e5875b9ae80a52036.m3u8"
+   ]
+  },
+  {
+   "id": "xsz1lnabcw",
+   "name": "SKIN-Sec5.mp4",
+   "duration": 179.53,
+   "width": 1280,
+   "height": 720,
+   "mp4_url": "https://embed-ssl.wistia.com/deliveries/824f11e3bf433816f9d6dcbec120b20f1cc1a237.bin",
+   "still_url": "https://embed-ssl.wistia.com/deliveries/8b14d0c136d8b6b555349396944c6181ece58339.bin",
+   "assets": {
+    "original": "https://embed-ssl.wistia.com/deliveries/d57d329c761e34b1b911e708f2eaded3.bin",
+    "iphone_video": "https://embed-ssl.wistia.com/deliveries/1ded437bbc2601d53350b24b4a5cb8c71c9f54c6.bin",
+    "mp4_video": "https://embed-ssl.wistia.com/deliveries/45a8316123347e152df593eb902daaabc90ee6e5.bin",
+    "md_mp4_video": "https://embed-ssl.wistia.com/deliveries/ab8c1a38eab8dbc2c7b63f542f9411dc18a551a7.bin",
+    "hd_mp4_video": "https://embed-ssl.wistia.com/deliveries/824f11e3bf433816f9d6dcbec120b20f1cc1a237.bin",
+    "still_image": "https://embed-ssl.wistia.com/deliveries/8b14d0c136d8b6b555349396944c6181ece58339.bin",
+    "storyboard": "https://embed-ssl.wistia.com/deliveries/9834b0181c2394ae3cfd57995555c089f1b4f8fc.bin"
+   },
+   "file": "xsz1lnabcw_SKIN-Sec5.mp4",
+   "bytes": 36137299,
+   "still_file": "xsz1lnabcw.jpg",
+   "m3u8": [
+    "https://embed-ssl.wistia.com/deliveries/824f11e3bf433816f9d6dcbec120b20f1cc1a237.m3u8"
+   ]
+  },
+  {
+   "id": "zvtxgacphq",
+   "name": "Skin-Sec1.mp4",
+   "duration": 239.657,
+   "width": 1280,
+   "height": 720,
+   "mp4_url": "https://embed-ssl.wistia.com/deliveries/bc6131b6574f6c423c5278506bffc0cb3ea46eed.bin",
+   "still_url": "https://embed-ssl.wistia.com/deliveries/0d89027e5831bdf34d61447efca7aa43106de75e.bin",
+   "assets": {
+    "original": "https://embed-ssl.wistia.com/deliveries/e7b20d0959bcc5cb02ba8fb84f6db56e.bin",
+    "iphone_video": "https://embed-ssl.wistia.com/deliveries/4f007b4fde48968a250bd196b0d4f1224f7f6144.bin",
+    "mp4_video": "https://embed-ssl.wistia.com/deliveries/bfedd22093c0ed59d4aafbbe3705a7fffb8c1aa5.bin",
+    "md_mp4_video": "https://embed-ssl.wistia.com/deliveries/849fd6f3d1d1d61b5712bf114f9932f13bf2c2e2.bin",
+    "hd_mp4_video": "https://embed-ssl.wistia.com/deliveries/bc6131b6574f6c423c5278506bffc0cb3ea46eed.bin",
+    "still_image": "https://embed-ssl.wistia.com/deliveries/0d89027e5831bdf34d61447efca7aa43106de75e.bin",
+    "storyboard": "https://embed-ssl.wistia.com/deliveries/cfb48455559319414b9ec3f6a2bc2952629f5b5e.bin"
+   },
+   "file": "zvtxgacphq_Skin-Sec1.mp4",
+   "bytes": 53228725,
+   "still_file": "zvtxgacphq.jpg",
+   "m3u8": [
+    "https://embed-ssl.wistia.com/deliveries/bc6131b6574f6c423c5278506bffc0cb3ea46eed.m3u8"
+   ]
+  }
+ ],
+ "assets": [
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/00gswmlqx94x-SKIN-chemical-peel.jpg",
+   "file": "1d68b7c7503dbc.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/1ghw6m4zreoe-SKIN-handwashing-2.jpg",
+   "file": "84deddbe4fdc1b.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/2040nar0sm3u-SKIN-quiz-art.jpg",
+   "file": "c8ed4f81aae1d2.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/3jd7wvokigm0-SKIN-antihistamines.jpg",
+   "file": "43e27944db2537.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/4n4dlkrgw7rz-SKIN-melanoma-treatments.jpg",
+   "file": "c780dc62f51186.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/5438vwj51v2s-SKIN-hyaluronic-acid-solutions-crop.jpg",
+   "file": "70bd2f94d121a2.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/5h0muo3zg632-SKIN-dry-skin-1.jpg",
+   "file": "1d313b84af15e7.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/5hnnpsg1hxiy-SKIN-bright-sun-umbrella.jpg",
+   "file": "efd7e6ac1d9703.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/5k8s3eooxn4g-skin-lotion-ingredients-re-do.jpg",
+   "file": "16b6ceb38173b5.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/5oywo0nri4d2-SKIN-actinic-keratosis-harvard-health-publishing.jpg",
+   "file": "5c411ccf2d28c4.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/6exf95pgfrba-Skin-cream-for-age-spot.jpg",
+   "file": "784139bb40096b.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/6j3tv4oi1zky-SKIN-questions-to-ask-doctor-crop.jpg",
+   "file": "812729b5744439.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/6kh1toh66mq9-SKIN-possible-side-effects.jpg",
+   "file": "5d2c457ad9e00d.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/7jrgi6wew30k-SKIN-muds.jpg",
+   "file": "4b7b3bab7aa3ff.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/83lx7p5y71th-SKIN-who-does-what.jpg",
+   "file": "97fc80cb6fa608.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/83yrb4vj7gag-SKIN-athletes-foot-prevention-footwear.jpg",
+   "file": "d614d19a425e39.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/8j5g2l6vmjvd-SKIN-hyaluronic-acid-1.jpg",
+   "file": "af9174a54d91bc.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/9qk3r9p4o42d-mallika-2020.jpg",
+   "file": "3fdf436167fa43.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/bkwzae5nx8th-SKIN-spf-30.jpg",
+   "file": "54ebad9f80c9c8.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/bo8qngdedfkr-SKIN-types-of-cosmetic-treatments-2-sm.jpg",
+   "file": "ae47abc92851ea.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/ciqpxc4wv4u1-SKIN-soft-tissue-atrophy.jpg",
+   "file": "cb36129cea36c9.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/dfbdd59quity-SKIN-moisturizer-1-crop.jpg",
+   "file": "3f3b3b85885246.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/ean983rjf733-SKIN-dry-skin-2.jpg",
+   "file": "ebc5e75ce8418f.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/edwvxovgygb5-SKIN-athletes-foot-shower.jpg",
+   "file": "47af0b0221963a.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/ei3f5xa93t08-mallika-2020.jpg",
+   "file": "19570882a56b76.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/elo4wcwmj7r8-SKIN-clean-your-skin.jpg",
+   "file": "9d9db3965ea0c4.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/g85bs3k3ff1r-SKIN-athletes-foot-2.jpg",
+   "file": "ea4df32af14670.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/gakbbf1z42fe-SKIN-clean-and-natural-products.jpg",
+   "file": "457e8d3f1a72e2.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/ghsvx1475i7a-skin-double-chin-sm.jpg",
+   "file": "f2c7ce7f23b2ca.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/gkdh8g324xvw-mallika-2020.jpg",
+   "file": "22c4b1ddaeaef6.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/gx73omoia052-SKIN-filler-injection.jpg",
+   "file": "1a06050812cb52.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/gzfkr3vo53do-SKin-athletes-toot-3.jpg",
+   "file": "95403e81afc423.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/h4a5fkbz0l4i-SKIN-masks.jpg",
+   "file": "72f84e459ad15b.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/hbvnhrqay6bs-SKIN-antibiotics.jpg",
+   "file": "13bc73bcd7aaea.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/hvy2amt2jc6o-SKIN-fingernails-2.jpg",
+   "file": "a64cd7ceb4b60a.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/i0xgw5fazhu9-SKIN-diabetes-drugs.jpg",
+   "file": "f7eef277a9906e.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/imlygi1kidee-SKIN-double-chin-art.jpg",
+   "file": "39477299089d60.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/js3ng5cqatoo-SKIN-aleve.jpg",
+   "file": "215b23aa540382.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/kg6kyo3yc3j8-SKIN-exfoliants-2.jpg",
+   "file": "48f7ca429ae4fe.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/lifxzoywc77n-SKIN-humidifier.jpg",
+   "file": "d2c8b3c3285d10.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/ll5xaoisbj69-SKIN-contact-dermatitis.jpg",
+   "file": "e9f13e499a38f8.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/m8hrjqo8iiik-SKIN-adult-acne-1.jpg",
+   "file": "adf719352d9679.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/mbg6bq7armau-SKIN-moisturizer-application.jpg",
+   "file": "9402b8fa902c62.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/npsfy0uotsfk-SKIN-calendar.jpg",
+   "file": "868533d210aa27.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/o6j400leyxum-SKIN-chemotheraphy-drugs.jpg",
+   "file": "8da9c189bc07a0.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/o89s4bzu7uyu-SKIN-athletes-foot-1.jpg",
+   "file": "ca9cdd39e1935b.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/ocwk4k66gr6h-SKIN-parting-hair.jpg",
+   "file": "078c76aba53358.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/or7hayf8z30b-SKIN-treat-particular-skin-needs.jpg",
+   "file": "5959187c172caf.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/ostch3ptewwb-SKIN-double-chin-shot.jpg",
+   "file": "e460b2e3ead764.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/otlvh07max1f-SKIN-three-types-of-skin-cancer-crop.jpg",
+   "file": "35ec58aa478ffb.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/pvgsf4nj2w45-SKIN-skin-tightening-procedure.jpg",
+   "file": "88660494be4052.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/q55bucqwtqs7-SKIN-dermatologist-scan-crop.jpg",
+   "file": "60c49f6269a92b.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/qorxcrnp1ye4-SKIN-sunscreen-on-child.jpg",
+   "file": "1f6b24e9b57f00.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/t5nz6hpxuam2-Skin-two-beautiful-women-small.jpg",
+   "file": "7989a38f9f48b2.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/u5wc6m4o9bpl-Mallika-Marshall-photo.jpg",
+   "file": "1b0df21fef88e9.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/u6dnl4w0k1pl-SKIN-adult-acne-photo.jpg",
+   "file": "770c80b36cd074.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/vtz7churnzq4-Skin-birthmarks.png",
+   "file": "4ebcc99b8676be.png"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/w5i4mlx7zpwx-SKIN-handwashing-3.jpg",
+   "file": "3ea6bc2d693796.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/wla26b489ovg-SKIN-basal-cell-carcinoma-2.jpg",
+   "file": "ea07bc87f3b184.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/wq0dcvdgyt29-SKIN-types-of-cosmetic-treatments-1-sm.jpg",
+   "file": "88386c7de2f66a.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/xoe9ecaljt6w-skin-questions-for-doctor.jpg",
+   "file": "12233d96543027.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/xpr46k4v35is-SKIN-soft-tissue-filler-crop.jpg",
+   "file": "80e441c44f6c83.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/xs6mmzsyib1z-mallika-2020.jpg",
+   "file": "d8f5d237e066de.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/xs8ak55ybpxe-SKIN-which-filler.jpg",
+   "file": "73f82c87e734f6.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/y15xiy2k4ssi-HHPHarvardHealthOnlineLearningCourseCertificateSkinCareandRepairwname.jpeg",
+   "file": "d6ede83c7da143.jpeg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/yato2v9eu8uc-SKIN-cellulitis.jpg",
+   "file": "f6bde1f77d7adb.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/yif7mxpnadzk-SKIN-heart-medications.jpg",
+   "file": "5cbf7cb3104ce2.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/ypezvw75acd0-SKIN-squamous-cell-carcinoma-2.jpg",
+   "file": "f45752fe2bd749.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/yqohqr6migyq-SKIN-retinoids-3.jpg",
+   "file": "2c96b5064671a5.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/z22zh7q8cz8r-SKIN-handwashing-1.jpg",
+   "file": "96e304a49578f8.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/zf8i320hxr3i-SKIN-layers-of-the-skin.jpg",
+   "file": "d5ff5f6d54f4e6.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/ztax5jp39u9p-SKIN-diuretic.jpg",
+   "file": "3f107b65cd1090.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/zzh1812grlx6-SKIN-functions-2.jpg",
+   "file": "c4a6baa67fa31d.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/00xqjbhoc0nn-SKIN_photodynamic-therapy.jpg",
+   "file": "d12cbc4f74ce3d.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/0b7oeczh5dmt-SKIN-legs-mole.jpg",
+   "file": "72cc10b47a876d.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/0xxo1pk9lkg2-SKIN-dermis.jpg",
+   "file": "42e0112ec97589.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/127gz0h39u0x-SKIN-checking-arms.jpg",
+   "file": "15c6189fd515b0.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/19f4t1h4gm0a-image.jpeg",
+   "file": "cbd68491c577a5.jpeg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/22w3izpigily-SKIN-dermatologist.jpg",
+   "file": "3ed133017b1c30.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/2lbdkrw7n3rg-SKIN-thermage.jpg",
+   "file": "1ab4ed24af1407.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/2qnlro53gyup-SKIN-cryotherap-for-actinic-keratosis.jpg",
+   "file": "eef0ad342600d3.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/30md1dsxs7m6-SKIN-common-skin-conditions.jpg",
+   "file": "515275ed279754.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/3fzk95715r7b-SKIN-cosmetic-procedures.jpg",
+   "file": "6824cb71ad9114.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/4hzh1n7d2fov-mallika-head-shot.jpg",
+   "file": "2de64ac867b5ee.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/5gpe7jmcb22d-SKIN-aesthetician-facial.jpg",
+   "file": "561c7ddec1241a.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/5haybxuiykly-SKIN-botox-7.jpg",
+   "file": "bc5ae024028e89.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/5yb3i6hxi6h4-SKIN-botox-5b.jpg",
+   "file": "efe8fdb8fe426f.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/607tncojattu-SKIN-melanocytes.jpg",
+   "file": "49cbabca0dc6ad.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/64029xr70xed-SKIN-dollar-sign-art.jpg",
+   "file": "4e536cfab7b248.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/6a9axdual4y4-SKIN-dollar-sign-art.jpg",
+   "file": "c4a99bf08c052e.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/86er62h7vn2y-SKIN-american-board-of-plastic-surgery.jpg",
+   "file": "dc8e4ff073682c.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/915crxhu8bvg-SKIN-abms-logo-from-facebook.jpg",
+   "file": "27400978186ce0.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/961uardgab1p-SKIN-three-types-of-skin-cancer-2-crop-2.jpg",
+   "file": "26433aa21ba0d0.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/96qe544swq0s-HH-benefits-of-quitting-1.jpg",
+   "file": "699fa0f489ab27.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/akk2mt0kqi7v-SKIN-cytokines.jpg",
+   "file": "aee8c91a126279.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/b5ebg0ywi7zn-SKIN-rf-2.jpg",
+   "file": "e3c6da5d3e6346.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/bqc74ob5s1xu-SKIN-checking-for-cancer.jpg",
+   "file": "fec1974117db45.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/c2gwkyb52ub6-SKIN-chemical-peel-0.jpg",
+   "file": "49be561c8009a1.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/c3x6w136njxw-SKIN-botox-6.jpg",
+   "file": "3a02a6ef822104.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/c8prgog9a18n-SKIN-rule-regulation-art.jpg",
+   "file": "758008946ddf05.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/cjh7st41cmhv-SKIN-microneedling.jpg",
+   "file": "d379cbe0f619b4.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/cl2aiwvwcw9y-SKIN-mole-on-side.jpg",
+   "file": "5eaa8497ed5c0b.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/dfx4krugusu8-SKIN-dollar-sign-art.jpg",
+   "file": "44a41dae01ddc9.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/drcy70f9wplu-SKIN-self-exam-in-mirror.jpg",
+   "file": "3bab56dd3729b9.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/e1gmwedpvwu9-skin-ultherapy.jpg",
+   "file": "a3f6082901b262.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/e1jmrihxmzit-SKIN-outermost-layer-photo.jpg",
+   "file": "d517494866e97f.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/e82joayb6lzt-SKIN-research.jpg",
+   "file": "0c6df31cd5766c.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/eus1b5xg81qa-Skin-detergent.jpg",
+   "file": "a6605158d0c6c0.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/ev4wziwgjrdu-SKIN-chemical-peel-1.jpg",
+   "file": "fcfd24af51c547.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/ex4rwv9zfuc9-SKIN-ultherapy-before-after.jpg",
+   "file": "3f84137fcd692d.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/fazk9sd81678-HH-benefits-of-quitting-5a.jpg",
+   "file": "9fb224ea90b2f6.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/fs4eueoc2dhf-SKIN-dermablading-tool-sephora.jpg",
+   "file": "2de0fe461b66e3.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/gcrb9wjucujt-HH-benefits-of-quitting-2.jpg",
+   "file": "6b01e5ae0587f8.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/gp37cijjz4b4-SKIN-photomodulation.jpg",
+   "file": "73f478009d4239.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/grd3t41j9nry-SKIN-lotions.jpg",
+   "file": "f4a051feccab92.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/id4xuehjzbtx-SKIN-thermitight.jpg",
+   "file": "f3abcf7252b560.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/igit0ft8lmli-HH-benefits-of-quitting-6.jpg",
+   "file": "163b2eba530c71.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/irhyzk0oaget-SKIN-chemical-peel.jpg",
+   "file": "79a5417d1b9e04.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/jcym5vt1oqjk-SKIN-poison-ivy.jpg",
+   "file": "a464e027c9f533.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/jy8veydrfa46-SKIN-basal-cells.jpg",
+   "file": "41a45c8c8fe6de.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/kncxbmr1ef5a-SKIN-rf-1.jpg",
+   "file": "871f085c64e3ca.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/kwvdi3cg0cmo-SKIN-dermatologist-visit.jpg",
+   "file": "0eb662d08a884d.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/ld2v7nqt0i0n-SKIN-microdermabrasion-0.jpg",
+   "file": "6f63624d9fa54c.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/lgw5ucb9do15-SKIN-foot.jpg",
+   "file": "359fcfb7540430.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/lh3jqn5ghkqy-SKIN-botox-3.jpg",
+   "file": "71bead281e5949.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/lrozkaqeyt42-SKIN-if-youre-undecided-light-therapy.jpg",
+   "file": "2432dc8b44aea6.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/m54vvlqga6g9-SKIN-aesthetician.jpg",
+   "file": "43b67c1b3b9336.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/m64zgi201uul-SKIN-warning.jpg",
+   "file": "92bd1272e7e73e.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/m75e6wt6nxh9-SKIN-fragrances.jpg",
+   "file": "05cb6f96db664b.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/mlrxn6oee3p9-SKIN-abd-logo.jpg",
+   "file": "cb6298fac07deb.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/n05akclkmvxx-SKIN-money-jar.jpg",
+   "file": "9031a525410496.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/n7txy1t5k82i-SKIN-ultherapy-3.jpg",
+   "file": "be60336c4b11b9.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/ogthnaab3581-SKIN-microneedling-tool.jpg",
+   "file": "e8eb008e1e1570.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/opf6xiit5g8o-SKIN-botox-5.jpg",
+   "file": "354ee83f0d73f3.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/or2mt1njkc0d-SKIN-IPL-intense-pulsed-light-therapy.jpg",
+   "file": "835d7ae01e08d1.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/p0dureynnep1-SKIN-squamous-cells-cancer.jpg",
+   "file": "269aeea360d80e.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/phv289ehzhac-SKIN-mild-soap.jpg",
+   "file": "f16d3a1bd24299.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/qckeaau8oy4s-image.png",
+   "file": "4f167c600a3560.png"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/qk37es6efi4q-SKIN-layers-diagram.jpg",
+   "file": "d3d2e8d45ca8aa.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/qpqr01omckpm-SKIN-antibacteria.jpg",
+   "file": "716715e7374b27.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/s6gezhqpa8b9-SKIN-contact-dermatitis-lotion.jpg",
+   "file": "0e6330f8835779.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/sgh7jz4c3f1u-SKIN-propylene-glycol.jpg",
+   "file": "6633af5c9ff431.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/si69m92f95ip-SKIN-botox-1.jpg",
+   "file": "9281a1567c32ae.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/t1ssl79ls77n-SKIN-body-lotion.jpg",
+   "file": "d7e0b13777b9ef.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/tgjnnnt1q0jk-HH-benefits-of-quitting-7.jpg",
+   "file": "78128f8a672a04.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/tnf66y8yizb5-SKIN-self-check.jpg",
+   "file": "1190573962821f.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/tonq38wxu8ce-SKIN-endymed-intensif.jpg",
+   "file": "d906eee2e1c193.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/vihoyc8jdeyi-hh-quiz-pencils.jpg",
+   "file": "f12ffa532d7327.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/vs75ix8evjzm-SKIN-botox-2.jpg",
+   "file": "688c5438be766d.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/vxbhel02hfa0-SKIN-sun.jpg",
+   "file": "4e7d2eecd73dfc.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/w6c5jetx21tc-SKIN-subcutaneous.jpg",
+   "file": "20a1c46b24afef.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/welmizdaa825-HH-benefits-of-quitting-cilia.jpg",
+   "file": "76353fa8b57c2c.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/xb2djx8f0hrn-HH-benefits-of-quitting-3.jpg",
+   "file": "031c72cfae3f4c.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/xd57o5i1llz5-SKIN-mole-shape.jpg",
+   "file": "67b7563c0fc5fd.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/xvbxi369iamo-SKIN-photodynamic-therapy.jpg",
+   "file": "dd3e10aacf37bf.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/z1ut8zdamcre-SKIN-microdermabrasion-1.jpg",
+   "file": "a078ad412a3c6b.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_100,h_100/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/z8svv5b92xnj-SKIN-dollar-sign-art.jpg",
+   "file": "418f64481cd2f5.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_1000/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/0yb2q4ovypqn-SKIN-eczema-2.jpg",
+   "file": "f7975ccffc8bc3.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_1000/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/5spi8rf1u8nf-SKIN-passage-of-time.jpg",
+   "file": "8754f3ecce8620.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_1000/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/a1xw8ooatkhh-SKIN-aging-processboy-grandpa.jpg",
+   "file": "648caaf19384d4.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_1000/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/al2u3sz2hos0-SKIN-melanoma-graphic-100dpi.jpg",
+   "file": "116e782c00ec77.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_1000/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/cxil4f6l1y5y-SKIN-diseases-of-the-skin-eczema.jpg",
+   "file": "fcfe056a208130.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_1000/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/gwe1x1nibybx-SKIN-cosmeceuticals-1.jpg",
+   "file": "76985cc7a8e143.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_1000/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/ijxjp3rxylvv-SKIN-alcohol.jpg",
+   "file": "95f7d48ad59eb6.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_1000/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/jwfmlxuv5pdb-SKIN-cosmeceuticals-2.jpg",
+   "file": "8e938e0793bf8f.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_1000/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/qez3aetvk6rk-SKIN-melanoma-redhead.jpg",
+   "file": "a150997fccc512.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_1000/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/ujvzm3iijztb-SKIN-cigarettes.jpg",
+   "file": "cd6d970c12eb15.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_1200/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/0yb2q4ovypqn-SKIN-eczema-2.jpg",
+   "file": "b9b61ce0e015c3.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_1200/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/5spi8rf1u8nf-SKIN-passage-of-time.jpg",
+   "file": "25667b7ddf9f8e.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_1200/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/a1xw8ooatkhh-SKIN-aging-processboy-grandpa.jpg",
+   "file": "473197bfa9b80c.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_1200/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/al2u3sz2hos0-SKIN-melanoma-graphic-100dpi.jpg",
+   "file": "66a748d6ec643b.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_1200/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/cxil4f6l1y5y-SKIN-diseases-of-the-skin-eczema.jpg",
+   "file": "ddeab7ab87190f.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_1200/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/gwe1x1nibybx-SKIN-cosmeceuticals-1.jpg",
+   "file": "bb405fe86eab56.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_1200/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/ijxjp3rxylvv-SKIN-alcohol.jpg",
+   "file": "de29f8a2561985.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_1200/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/jwfmlxuv5pdb-SKIN-cosmeceuticals-2.jpg",
+   "file": "0e8a427654d1af.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_1200/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/qez3aetvk6rk-SKIN-melanoma-redhead.jpg",
+   "file": "a5fe4714748900.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_1200/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/ujvzm3iijztb-SKIN-cigarettes.jpg",
+   "file": "2ca0bf7c2e205d.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_1400/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/0yb2q4ovypqn-SKIN-eczema-2.jpg",
+   "file": "73c82d05b8a62d.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_1400/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/5spi8rf1u8nf-SKIN-passage-of-time.jpg",
+   "file": "d3d2e7a63d7d21.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_1400/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/a1xw8ooatkhh-SKIN-aging-processboy-grandpa.jpg",
+   "file": "eb0c5e728773db.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_1400/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/al2u3sz2hos0-SKIN-melanoma-graphic-100dpi.jpg",
+   "file": "ae5da0cd51154f.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_1400/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/cxil4f6l1y5y-SKIN-diseases-of-the-skin-eczema.jpg",
+   "file": "7931434ea00eb2.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_1400/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/gwe1x1nibybx-SKIN-cosmeceuticals-1.jpg",
+   "file": "c879c4ed7042b6.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_1400/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/ijxjp3rxylvv-SKIN-alcohol.jpg",
+   "file": "76a8c7b25f1091.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_1400/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/jwfmlxuv5pdb-SKIN-cosmeceuticals-2.jpg",
+   "file": "d343f281a07bfd.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_1400/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/qez3aetvk6rk-SKIN-melanoma-redhead.jpg",
+   "file": "094fed99273ed0.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_1400/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/ujvzm3iijztb-SKIN-cigarettes.jpg",
+   "file": "61cc190527bdaf.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_400/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/36tyaqr31tpu-SKIN-before-you-exit-4a.jpg",
+   "file": "f9f0bc40383e5b.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_400/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/684g3k7d88kq-SKIN-doctor-or-aesthetician-2.jpg",
+   "file": "9ec37db52e4868.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_400/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/6kuxiy3rvro8-SKIN-infrared-heat-lamp.jpg",
+   "file": "f8dec2e9f15a6d.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_400/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/9wyaxm5lm1tr-SKIN-hyaluronic-acid.jpg",
+   "file": "6e5f1a3f9a18fb.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_400/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/e1izugaga7hi-SKIN-before-you-exit-3a.jpg",
+   "file": "03f5e4b0ce39cb.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_400/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/gz22gue03nm8-SKIN-exfoliants-3.jpg",
+   "file": "839e24939317b2.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_400/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/hpvdgojid3i6-SKIN-sunscreens-50-30-20-spf-crop-30.jpg",
+   "file": "48301e6a9df29a.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_400/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/o0775cto4bk2-SKIN-microneedle.jpg",
+   "file": "79ac64bc1176b4.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_400/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/pdpbu432k6ac-SKIN-dermatologist-scan-2.jpg",
+   "file": "a4ee82bfd0a0e2.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_400/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/tr0jfeqcwzy8-SKIN-retinoids.jpg",
+   "file": "eaf845ff0b1d1a.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/36tyaqr31tpu-SKIN-before-you-exit-4a.jpg",
+   "file": "c944de641b4e11.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/684g3k7d88kq-SKIN-doctor-or-aesthetician-2.jpg",
+   "file": "acea7801bdff6f.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/6kuxiy3rvro8-SKIN-infrared-heat-lamp.jpg",
+   "file": "6c64278e2ce4df.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/9wyaxm5lm1tr-SKIN-hyaluronic-acid.jpg",
+   "file": "266dc97bfde1d6.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/e1izugaga7hi-SKIN-before-you-exit-3a.jpg",
+   "file": "c7bf1dce945461.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/gz22gue03nm8-SKIN-exfoliants-3.jpg",
+   "file": "ed87c6218431ec.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/hpvdgojid3i6-SKIN-sunscreens-50-30-20-spf-crop-30.jpg",
+   "file": "cf101e15f72522.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/o0775cto4bk2-SKIN-microneedle.jpg",
+   "file": "650683a220f75f.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/pdpbu432k6ac-SKIN-dermatologist-scan-2.jpg",
+   "file": "031b07ab30feeb.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fill,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/tr0jfeqcwzy8-SKIN-retinoids.jpg",
+   "file": "47c6a69df6ebdd.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,t_ti_favicon_v4/v1490726292/cn3lg8yi6sh7ploqir5i.png",
+   "file": "a173f91e12a417.png"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/00xqjbhoc0nn-SKIN_photodynamic-therapy.jpg",
+   "file": "9d05c024276347.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/0b7oeczh5dmt-SKIN-legs-mole.jpg",
+   "file": "4529062a2b77e0.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/0xxo1pk9lkg2-SKIN-dermis.jpg",
+   "file": "9848fc581a8f80.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/127gz0h39u0x-SKIN-checking-arms.jpg",
+   "file": "33dd5ef6d16fd4.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/19f4t1h4gm0a-image.jpeg",
+   "file": "8d123f201c221c.jpeg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/22w3izpigily-SKIN-dermatologist.jpg",
+   "file": "127efd9635ab17.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/2lbdkrw7n3rg-SKIN-thermage.jpg",
+   "file": "f9e277f07d9574.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/2qnlro53gyup-SKIN-cryotherap-for-actinic-keratosis.jpg",
+   "file": "5ef761e71dd437.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/30md1dsxs7m6-SKIN-common-skin-conditions.jpg",
+   "file": "a8ec7baba596f9.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/3fzk95715r7b-SKIN-cosmetic-procedures.jpg",
+   "file": "e364c1bd2d141e.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/4hzh1n7d2fov-mallika-head-shot.jpg",
+   "file": "f16ff863470347.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/5gpe7jmcb22d-SKIN-aesthetician-facial.jpg",
+   "file": "d1e7defd0eec48.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/5haybxuiykly-SKIN-botox-7.jpg",
+   "file": "7c3c3106ac7a75.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/5yb3i6hxi6h4-SKIN-botox-5b.jpg",
+   "file": "8fa4e57c382f8b.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/607tncojattu-SKIN-melanocytes.jpg",
+   "file": "ac8b8dc34ae97e.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/64029xr70xed-SKIN-dollar-sign-art.jpg",
+   "file": "8c0b1b551cf22a.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/6a9axdual4y4-SKIN-dollar-sign-art.jpg",
+   "file": "467f2ca513829f.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/86er62h7vn2y-SKIN-american-board-of-plastic-surgery.jpg",
+   "file": "258cc4fd193036.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/915crxhu8bvg-SKIN-abms-logo-from-facebook.jpg",
+   "file": "0d7b628b309683.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/961uardgab1p-SKIN-three-types-of-skin-cancer-2-crop-2.jpg",
+   "file": "7d876d6f0573d0.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/96qe544swq0s-HH-benefits-of-quitting-1.jpg",
+   "file": "1176402bdc057c.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/akk2mt0kqi7v-SKIN-cytokines.jpg",
+   "file": "505be3dad6c6d9.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/b5ebg0ywi7zn-SKIN-rf-2.jpg",
+   "file": "5dc33d2e20f534.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/bqc74ob5s1xu-SKIN-checking-for-cancer.jpg",
+   "file": "ddb33d8d4b9eec.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/c2gwkyb52ub6-SKIN-chemical-peel-0.jpg",
+   "file": "d7872567a20b48.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/c3x6w136njxw-SKIN-botox-6.jpg",
+   "file": "ee732b783033ed.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/c8prgog9a18n-SKIN-rule-regulation-art.jpg",
+   "file": "66b74b35b85e2b.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/cjh7st41cmhv-SKIN-microneedling.jpg",
+   "file": "149ef54c021853.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/cl2aiwvwcw9y-SKIN-mole-on-side.jpg",
+   "file": "1ca44ae7faf1c8.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/dfx4krugusu8-SKIN-dollar-sign-art.jpg",
+   "file": "3da3bdc20a8f17.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/drcy70f9wplu-SKIN-self-exam-in-mirror.jpg",
+   "file": "57e2359d536b15.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/e1gmwedpvwu9-skin-ultherapy.jpg",
+   "file": "2a51c1ffa19394.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/e1jmrihxmzit-SKIN-outermost-layer-photo.jpg",
+   "file": "003a35f5c30a53.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/e82joayb6lzt-SKIN-research.jpg",
+   "file": "5f25915db8e3fe.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/eus1b5xg81qa-Skin-detergent.jpg",
+   "file": "d4789d37a3b5b1.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/ev4wziwgjrdu-SKIN-chemical-peel-1.jpg",
+   "file": "241fcdcbe7d338.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/ex4rwv9zfuc9-SKIN-ultherapy-before-after.jpg",
+   "file": "f4cae5270fb998.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/fazk9sd81678-HH-benefits-of-quitting-5a.jpg",
+   "file": "3c7df5eb49c447.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/fs4eueoc2dhf-SKIN-dermablading-tool-sephora.jpg",
+   "file": "aa56f681be57d0.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/gcrb9wjucujt-HH-benefits-of-quitting-2.jpg",
+   "file": "27e9a7ae8a60eb.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/gp37cijjz4b4-SKIN-photomodulation.jpg",
+   "file": "017febfc82ab47.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/grd3t41j9nry-SKIN-lotions.jpg",
+   "file": "a3ca4c39bca5d0.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/id4xuehjzbtx-SKIN-thermitight.jpg",
+   "file": "6e00b021dbbeff.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/igit0ft8lmli-HH-benefits-of-quitting-6.jpg",
+   "file": "bc7e873c351ad5.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/irhyzk0oaget-SKIN-chemical-peel.jpg",
+   "file": "1a595a97830d08.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/jcym5vt1oqjk-SKIN-poison-ivy.jpg",
+   "file": "f9ab57fc2527c3.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/jy8veydrfa46-SKIN-basal-cells.jpg",
+   "file": "eb5a303782b34d.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/kncxbmr1ef5a-SKIN-rf-1.jpg",
+   "file": "4675b00da81591.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/kwvdi3cg0cmo-SKIN-dermatologist-visit.jpg",
+   "file": "45c879b924151c.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/ld2v7nqt0i0n-SKIN-microdermabrasion-0.jpg",
+   "file": "16b815ed772715.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/lgw5ucb9do15-SKIN-foot.jpg",
+   "file": "bbd46d006fe9c7.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/lh3jqn5ghkqy-SKIN-botox-3.jpg",
+   "file": "6aeb0891f87c4e.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/lrozkaqeyt42-SKIN-if-youre-undecided-light-therapy.jpg",
+   "file": "8e40bbf859a02d.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/m54vvlqga6g9-SKIN-aesthetician.jpg",
+   "file": "a586cf8bd22673.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/m64zgi201uul-SKIN-warning.jpg",
+   "file": "653cda33c663e1.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/m75e6wt6nxh9-SKIN-fragrances.jpg",
+   "file": "3c182bb6d399fe.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/mlrxn6oee3p9-SKIN-abd-logo.jpg",
+   "file": "68acaf0fd0f79c.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/n05akclkmvxx-SKIN-money-jar.jpg",
+   "file": "a2ce1564ce4379.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/n7txy1t5k82i-SKIN-ultherapy-3.jpg",
+   "file": "2e029dcd368481.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/ogthnaab3581-SKIN-microneedling-tool.jpg",
+   "file": "73450203875153.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/opf6xiit5g8o-SKIN-botox-5.jpg",
+   "file": "4cc5d1463c7d40.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/or2mt1njkc0d-SKIN-IPL-intense-pulsed-light-therapy.jpg",
+   "file": "615ce2c702bd36.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/p0dureynnep1-SKIN-squamous-cells-cancer.jpg",
+   "file": "8e40271009fd08.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/phv289ehzhac-SKIN-mild-soap.jpg",
+   "file": "f3bdd6fce94f20.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/qckeaau8oy4s-image.png",
+   "file": "e5bef55b392363.png"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/qk37es6efi4q-SKIN-layers-diagram.jpg",
+   "file": "ff41e8ba37f8fb.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/qpqr01omckpm-SKIN-antibacteria.jpg",
+   "file": "bd0fb057b53e67.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/s6gezhqpa8b9-SKIN-contact-dermatitis-lotion.jpg",
+   "file": "af5f8b7bcc4b19.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/sgh7jz4c3f1u-SKIN-propylene-glycol.jpg",
+   "file": "e6e7591f870afc.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/si69m92f95ip-SKIN-botox-1.jpg",
+   "file": "8459a0cad2d033.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/t1ssl79ls77n-SKIN-body-lotion.jpg",
+   "file": "4ba50357e9207e.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/tgjnnnt1q0jk-HH-benefits-of-quitting-7.jpg",
+   "file": "3347d4442d6bba.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/tnf66y8yizb5-SKIN-self-check.jpg",
+   "file": "48b47c25379707.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/tonq38wxu8ce-SKIN-endymed-intensif.jpg",
+   "file": "0e25868fc2d59c.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/vihoyc8jdeyi-hh-quiz-pencils.jpg",
+   "file": "eb191943729b98.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/vs75ix8evjzm-SKIN-botox-2.jpg",
+   "file": "54072bd5c748a4.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/vxbhel02hfa0-SKIN-sun.jpg",
+   "file": "01c7e28a41bd56.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/w6c5jetx21tc-SKIN-subcutaneous.jpg",
+   "file": "8b6a43c58d5f4e.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/welmizdaa825-HH-benefits-of-quitting-cilia.jpg",
+   "file": "923c3ae86b9f6f.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/xb2djx8f0hrn-HH-benefits-of-quitting-3.jpg",
+   "file": "238e2e6a024cfc.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/xd57o5i1llz5-SKIN-mole-shape.jpg",
+   "file": "be82dc3de97acd.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/xvbxi369iamo-SKIN-photodynamic-therapy.jpg",
+   "file": "ddd1cee97fc029.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/z1ut8zdamcre-SKIN-microdermabrasion-1.jpg",
+   "file": "4ecd8ec3cc69bb.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,w_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/z8svv5b92xnj-SKIN-dollar-sign-art.jpg",
+   "file": "77f38f210a9740.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/q_100,a_exif,c_crop,x_0,y_0,w_600,h_600/a_exif,c_fit,w_300,h_300/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/2c44qh1in6ug-image.png",
+   "file": "2e26782451e9e7.png"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/q_100,a_exif,c_crop,x_0,y_0,w_600,h_600/a_exif,c_fit,w_600,h_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/2c44qh1in6ug-image.png",
+   "file": "8185a6dc652e16.png"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/q_100,a_exif,c_crop,x_100,y_0,w_487,h_487/a_exif,c_fill,w_300,h_300/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/qd7f3pd9u9ho-db-quit-smoking.jpg",
+   "file": "05f256682a57b1.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/q_100,a_exif,c_crop,x_137,y_1,w_532,h_532/a_exif,c_fit,w_300,h_300/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/z1ondzjma5bg-HH-quit-smoking-6.jpg",
+   "file": "4adbc03abe903e.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/q_100,a_exif,c_crop,x_137,y_1,w_532,h_532/a_exif,c_fit,w_600,h_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/z1ondzjma5bg-HH-quit-smoking-6.jpg",
+   "file": "278554f931b733.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/q_100,a_exif,c_crop,x_144,y_5,w_478,h_478/a_exif,c_fill,w_300,h_300/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/pha712uumwcr-db-quit-smoking-2.jpg",
+   "file": "fd745b358571e8.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/q_100,a_exif,c_crop,x_191,y_12,w_519,h_519/a_exif,c_fit,w_300,h_300/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/5awkfbjya5zh-HH-quit-smoking-9.jpg",
+   "file": "eec3ce58008255.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/q_100,a_exif,c_crop,x_191,y_12,w_519,h_519/a_exif,c_fit,w_600,h_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/5awkfbjya5zh-HH-quit-smoking-9.jpg",
+   "file": "bc7ef4117362b9.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/q_100,a_exif,c_crop,x_199,y_215,w_1369,h_1369/a_exif,c_fit,w_300,h_300/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/ab9ghoyol8bv-TimColeheadshot.jpg",
+   "file": "80fadfbfab0e85.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/q_100,a_exif,c_crop,x_199,y_215,w_1369,h_1369/a_exif,c_fit,w_600,h_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/ab9ghoyol8bv-TimColeheadshot.jpg",
+   "file": "86c89b89622b95.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/q_100,a_exif,c_crop,x_216,y_92,w_637,h_637/a_exif,c_fit,w_300,h_300/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/pr6us86gmwyc-HH-quit-smoking-2a.jpg",
+   "file": "badf96ba406ddf.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/q_100,a_exif,c_crop,x_216,y_92,w_637,h_637/a_exif,c_fit,w_600,h_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/pr6us86gmwyc-HH-quit-smoking-2a.jpg",
+   "file": "c70298e96aae88.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/q_100,a_exif,c_crop,x_224,y_77,w_457,h_457/a_exif,c_fit,w_300,h_300/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/tsx9ebtj9gih-HH-quit-smoking-5.jpg",
+   "file": "8c99af9d493f48.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/q_100,a_exif,c_crop,x_224,y_77,w_457,h_457/a_exif,c_fit,w_600,h_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/tsx9ebtj9gih-HH-quit-smoking-5.jpg",
+   "file": "80d494166cbaf6.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/q_100,a_exif,c_crop,x_267,y_0,w_533,h_533/a_exif,c_fit,w_300,h_300/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/9uprhx4sagc9-HH-quit-smoking-4.jpg",
+   "file": "086c09d5e05762.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/q_100,a_exif,c_crop,x_267,y_0,w_533,h_533/a_exif,c_fit,w_600,h_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/9uprhx4sagc9-HH-quit-smoking-4.jpg",
+   "file": "62940f44f26b7e.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/q_100,a_exif,c_crop,x_274,y_2,w_846,h_846/a_exif,c_fit,w_300,h_300/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/7rmtcvohm73p-GordonHall.jpg",
+   "file": "47a17fd2c5f87e.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/q_100,a_exif,c_crop,x_274,y_2,w_846,h_846/a_exif,c_fit,w_600,h_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/7rmtcvohm73p-GordonHall.jpg",
+   "file": "85f724795a14a0.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/q_100,a_exif,c_crop,x_286,y_0,w_439,h_439/a_exif,c_fit,w_300,h_300/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/5m6g7nk744wn-HH-quit-smoking-1a.jpg",
+   "file": "6788ac5870395d.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/q_100,a_exif,c_crop,x_286,y_0,w_439,h_439/a_exif,c_fit,w_600,h_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/5m6g7nk744wn-HH-quit-smoking-1a.jpg",
+   "file": "3723bbf6f6d600.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/q_100,a_exif,c_crop,x_30,y_38,w_562,h_562/a_exif,c_fit,w_300,h_300/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/bet3q6h1bg3x-dr-megan-noe.jpg",
+   "file": "b726a76f1030c8.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/q_100,a_exif,c_crop,x_30,y_38,w_562,h_562/a_exif,c_fit,w_600,h_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/bet3q6h1bg3x-dr-megan-noe.jpg",
+   "file": "d1ebdb4e3de458.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/q_100,a_exif,c_crop,x_317,y_73,w_622,h_622/a_exif,c_fit,w_300,h_300/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/6m2ndbyaroho-HH-quit-smoking-7.jpg",
+   "file": "a5a06c1cf99d2d.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/q_100,a_exif,c_crop,x_317,y_73,w_622,h_622/a_exif,c_fit,w_600,h_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/6m2ndbyaroho-HH-quit-smoking-7.jpg",
+   "file": "ddbb09bdaaa4e3.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/q_100,a_exif,c_crop,x_60,y_74,w_513,h_513/a_exif,c_fit,w_300,h_300/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/yfx6oct614pn-dr-mallika-marshall.jpg",
+   "file": "2e166dab8a9888.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/q_100,a_exif,c_crop,x_60,y_74,w_513,h_513/a_exif,c_fit,w_600,h_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/yfx6oct614pn-dr-mallika-marshall.jpg",
+   "file": "0d0cc2aa54c90a.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/q_100,a_exif,c_crop,x_68,y_47,w_487,h_487/a_exif,c_fit,w_300,h_300/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/fu83tjkzgdbp-HH-quit-smoking-3.jpg",
+   "file": "f997134e813c69.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/q_100,a_exif,c_crop,x_68,y_47,w_487,h_487/a_exif,c_fit,w_600,h_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/fu83tjkzgdbp-HH-quit-smoking-3.jpg",
+   "file": "778b3c3230fcec.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/q_100,a_exif,c_crop,x_72,y_5,w_652,h_367/a_exif,c_fill,w_1000,h_563/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/kd8utx33sh3u-SKIN-functions-5.jpg",
+   "file": "f0a14852142fd9.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/q_100,a_exif,c_crop,x_72,y_5,w_652,h_367/a_exif,c_fill,w_1500,h_845/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/kd8utx33sh3u-SKIN-functions-5.jpg",
+   "file": "060a0001984f2e.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/q_100,a_exif,c_crop,x_72,y_5,w_652,h_367/a_exif,c_fill,w_600,h_338/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/kd8utx33sh3u-SKIN-functions-5.jpg",
+   "file": "43dbeaece0ac0f.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/q_100,a_exif,c_crop,x_72,y_5,w_652,h_367/a_exif,c_fill,w_800,h_450/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/kd8utx33sh3u-SKIN-functions-5.jpg",
+   "file": "6d4e21d64899ed.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/q_100,a_exif,c_crop,x_8,y_0,w_780,h_439/a_exif,c_fill,w_1000,h_563/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/gpy9ysbl2mzp-skin-tattoo-removal-GettyImages-514411126.jpg",
+   "file": "5ff5887e967fca.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/q_100,a_exif,c_crop,x_8,y_0,w_780,h_439/a_exif,c_fill,w_1500,h_845/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/gpy9ysbl2mzp-skin-tattoo-removal-GettyImages-514411126.jpg",
+   "file": "1ff5e84e198b9e.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/q_100,a_exif,c_crop,x_8,y_0,w_780,h_439/a_exif,c_fill,w_600,h_338/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/gpy9ysbl2mzp-skin-tattoo-removal-GettyImages-514411126.jpg",
+   "file": "4bf220c0a43a46.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/q_100,a_exif,c_crop,x_8,y_0,w_780,h_439/a_exif,c_fill,w_800,h_450/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/gpy9ysbl2mzp-skin-tattoo-removal-GettyImages-514411126.jpg",
+   "file": "9ca32924671d82.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/q_100,a_exif,c_crop,x_84,y_71,w_529,h_529/a_exif,c_fit,w_300,h_300/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/fksv17sh3dia-HH-quit-smoking-1.jpg",
+   "file": "acba160cfb2642.jpg"
+  },
+  {
+   "url": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/q_100,a_exif,c_crop,x_84,y_71,w_529,h_529/a_exif,c_fit,w_600,h_600/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/fksv17sh3dia-HH-quit-smoking-1.jpg",
+   "file": "ea614bfb09b018.jpg"
+  },
+  {
+   "url": "https://embed-ssl.wistia.com/deliveries/034a991f0c7b84deb26ff2788c14aa1e397fc0ba.m3u8",
+   "file": "c13a9f7067d1c4.m3u8"
+  },
+  {
+   "url": "https://embed-ssl.wistia.com/deliveries/0d89027e5831bdf34d61447efca7aa43106de75e.jpg?image_crop_resized=640x360",
+   "file": "22d46bb2978b3d.jpg"
+  },
+  {
+   "url": "https://embed-ssl.wistia.com/deliveries/1da2ba7897c09d484a5f987e5875b9ae80a52036.m3u8",
+   "file": "84bb2c4c9843f3.m3u8"
+  },
+  {
+   "url": "https://embed-ssl.wistia.com/deliveries/2816b1d69a009866750595fb3623044c9d5adc56.jpg?image_crop_resized=640x360",
+   "file": "d7fa5e35881f5d.jpg"
+  },
+  {
+   "url": "https://embed-ssl.wistia.com/deliveries/30b13554d0750e2ddc6b685f1479a7c8.jpg?video_still_time=26.146005208380224",
+   "file": "6998dbd03efc75.jpg"
+  },
+  {
+   "url": "https://embed-ssl.wistia.com/deliveries/426cd290e67aa7461a2e7464ba6b987d4337d02a.jpg?image_crop_resized=640x360",
+   "file": "f68455f7f7d410.jpg"
+  },
+  {
+   "url": "https://embed-ssl.wistia.com/deliveries/7eb1e189f3dc2fa7f231bf4358f44a464dec9d76.m3u8",
+   "file": "7606743493fcbc.m3u8"
+  },
+  {
+   "url": "https://embed-ssl.wistia.com/deliveries/824f11e3bf433816f9d6dcbec120b20f1cc1a237.m3u8",
+   "file": "a9c60a2263886e.m3u8"
+  },
+  {
+   "url": "https://embed-ssl.wistia.com/deliveries/8b14d0c136d8b6b555349396944c6181ece58339.jpg?image_crop_resized=640x360",
+   "file": "d579bfaa1f4e83.jpg"
+  },
+  {
+   "url": "https://embed-ssl.wistia.com/deliveries/8cac3cb8a604908a59cd63f6a08790820493bdab.m3u8",
+   "file": "638d94a29f5c32.m3u8"
+  },
+  {
+   "url": "https://embed-ssl.wistia.com/deliveries/99ec3565bd18bcaadb6c924bbf1483bc68d044c6.jpg?image_crop_resized=640x360",
+   "file": "b9e529d3b8af52.jpg"
+  },
+  {
+   "url": "https://embed-ssl.wistia.com/deliveries/a3e06986b08020f423ccb7b83d5d4a78.jpg?video_still_time=55.5516111",
+   "file": "6713aa2870f697.jpg"
+  },
+  {
+   "url": "https://embed-ssl.wistia.com/deliveries/aaaa38a9d0b04975843536cbcaa26f51.jpg?video_still_time=77.87438146",
+   "file": "b2f027c63c772f.jpg"
+  },
+  {
+   "url": "https://embed-ssl.wistia.com/deliveries/b7e61e321508fca5652aea06a12832e062f97fe9.m3u8",
+   "file": "822c8f59b97555.m3u8"
+  },
+  {
+   "url": "https://embed-ssl.wistia.com/deliveries/bc6131b6574f6c423c5278506bffc0cb3ea46eed.m3u8",
+   "file": "70c5f17fb4fdf7.m3u8"
+  },
+  {
+   "url": "https://embed-ssl.wistia.com/deliveries/d27bff3698f775da04ebdaaa59f912715363b9f2.jpg?image_crop_resized=640x360",
+   "file": "f23f85e5beaf7f.jpg"
+  },
+  {
+   "url": "https://embed-ssl.wistia.com/deliveries/d57d329c761e34b1b911e708f2eaded3.jpg?video_still_time=137.6501129",
+   "file": "be2bbd176646e0.jpg"
+  },
+  {
+   "url": "https://embed-ssl.wistia.com/deliveries/e490a066d5077afeca85525d39318e7d30665488.jpg?image_crop_resized=640x360",
+   "file": "aff279254829f3.jpg"
+  },
+  {
+   "url": "https://embed-ssl.wistia.com/deliveries/e7b20d0959bcc5cb02ba8fb84f6db56e.jpg?video_still_time=3.13978484",
+   "file": "4b4ea76ca0152e.jpg"
+  },
+  {
+   "url": "https://embed-ssl.wistia.com/deliveries/f56e549e11f17b450c1fc07eeb19aaa9.jpg?video_still_time=63.4504512",
+   "file": "92d27e54f7b45e.jpg"
+  },
+  {
+   "url": "https://fast.tia-ai.com/production/widget.global.js",
+   "file": "55983863cbef43.js"
+  },
+  {
+   "url": "https://fast.wistia.com/assets/external/E-v1.js",
+   "file": "5e0326240e9131.js"
+  },
+  {
+   "url": "https://fast.wistia.com/assets/external/fonts/Inter-Cyrillic-Extended.woff",
+   "file": "4308c64c0d2aba.woff"
+  },
+  {
+   "url": "https://fast.wistia.com/assets/external/fonts/Inter-Cyrillic.woff",
+   "file": "6d44e5a4ca47af.woff"
+  },
+  {
+   "url": "https://fast.wistia.com/assets/external/fonts/Inter-Extended.woff",
+   "file": "29e2d0e2a158e0.woff"
+  },
+  {
+   "url": "https://fast.wistia.com/assets/external/fonts/Inter-Greek-Extended.woff",
+   "file": "fa58d0c5a0959a.woff"
+  },
+  {
+   "url": "https://fast.wistia.com/assets/external/fonts/Inter-Greek.woff",
+   "file": "3170af2c7fc91f.woff"
+  },
+  {
+   "url": "https://fast.wistia.com/assets/external/fonts/Inter-Latin-Extended.woff",
+   "file": "4d9fac154c4de2.woff"
+  },
+  {
+   "url": "https://fast.wistia.com/assets/external/fonts/Inter-Vietnamese.woff",
+   "file": "a9aa84652df4b3.woff"
+  },
+  {
+   "url": "https://media.thoughtindustries.com/assets/images/cards.png",
+   "file": "39885042e93658.png"
+  },
+  {
+   "url": "https://media.thoughtindustries.com/certificate-baseless-unearned.png",
+   "file": "71aca838e46c2a.png"
+  },
+  {
+   "url": "https://media.thoughtindustries.com/certificate-baseless-v3.png",
+   "file": "8e672fb5aea3cd.png"
+  },
+  {
+   "url": "https://media.thoughtindustries.com/certificate-baseless-v4-unearned.png",
+   "file": "40bae117570fb7.png"
+  },
+  {
+   "url": "https://media.thoughtindustries.com/certificate-baseless-v4.png",
+   "file": "03292df182d66c.png"
+  },
+  {
+   "url": "https://media.thoughtindustries.com/certificate-unearned.png",
+   "file": "aac465b88e2f83.png"
+  },
+  {
+   "url": "https://media.thoughtindustries.com/certificate.png",
+   "file": "dbf766f87fbf20.png"
+  },
+  {
+   "url": "https://media.thoughtindustries.com/css-vars-ponyfill-ti.2.4.2.min.js",
+   "file": "8ef87a7c7134fe.js"
+  },
+  {
+   "url": "https://media.thoughtindustries.com/fonts/inter-v12-latin-300.woff2",
+   "file": "bccdff353bfcde.woff2"
+  },
+  {
+   "url": "https://media.thoughtindustries.com/fonts/inter-v12-latin-500.woff2",
+   "file": "eecc8c3e7481a3.woff2"
+  },
+  {
+   "url": "https://media.thoughtindustries.com/fonts/inter-v12-latin-600.woff2",
+   "file": "1ae852503f82e0.woff2"
+  },
+  {
+   "url": "https://media.thoughtindustries.com/fonts/inter-v12-latin-700.woff2",
+   "file": "dd12856416c421.woff2"
+  },
+  {
+   "url": "https://media.thoughtindustries.com/fonts/inter-v12-latin-regular.woff",
+   "file": "e56663dc181c96.woff"
+  },
+  {
+   "url": "https://media.thoughtindustries.com/fonts/poppins-v20-latin-600.woff2",
+   "file": "299fc4dd2342cb.woff2"
+  },
+  {
+   "url": "https://media.thoughtindustries.com/fonts/ti-icons-rev2.2.6.svg#ti-icons",
+   "file": "2d17f9bf71e642.svg"
+  },
+  {
+   "url": "https://media.thoughtindustries.com/fonts/ti-icons-rev2.2.6.ttf",
+   "file": "2da807d2997f82.ttf"
+  },
+  {
+   "url": "https://media.thoughtindustries.com/fonts/ti-icons-rev2.2.6.woff",
+   "file": "1124b2a89bbcd3.woff"
+  },
+  {
+   "url": "https://media.thoughtindustries.com/jquery.minicolors.png",
+   "file": "772603aeb47f17.png"
+  },
+  {
+   "url": "https://media.thoughtindustries.com/thoughtindustries/image/upload/a_exif,c_fit,t_ti_company_logo_v4/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/qir5fvfuhns0-Screenshot2026-03-11084102.png",
+   "file": "c324dfa59c3577.png"
+  },
+  {
+   "url": "https://media.thoughtindustries.com/thoughtindustries/image/upload/a_exif,c_lfill,h_150/v1/course-uploads/e1700f87-1740-420f-af5e-5dd0786b819c/qir5fvfuhns0-Screenshot2026-03-11084102.png",
+   "file": "85595c10a38f17.png"
+  },
+  {
+   "url": "https://media.thoughtindustries.com/v3/dist/10621-e98ee4d16b3888f0589c.bundle.js",
+   "file": "f257365f601662.js"
+  },
+  {
+   "url": "https://media.thoughtindustries.com/v3/dist/51503-beb423e4b47b7612ea44.bundle.js",
+   "file": "aaac07b503ec1f.js"
+  },
+  {
+   "url": "https://media.thoughtindustries.com/v3/dist/94166-30212217193e0cf8f788.css",
+   "file": "1a5790b9023121.css"
+  },
+  {
+   "url": "https://media.thoughtindustries.com/v3/dist/98441-1bfc6b44166fd5982af1.css",
+   "file": "31a1fc3c1b4201.css"
+  },
+  {
+   "url": "https://media.thoughtindustries.com/v3/dist/98441-3e4a46f218179da7c82a.bundle.js",
+   "file": "785f4f3f2d4f85.js"
+  },
+  {
+   "url": "https://media.thoughtindustries.com/v3/dist/app-3abcdb8e3bd9a80ce4b6.bundle.js",
+   "file": "9e94fc70926ba8.js"
+  },
+  {
+   "url": "https://media.thoughtindustries.com/v3/dist/vendor.gulp.bundle.e475ebdd.js",
+   "file": "f06d6e95cdfdf0.js"
+  },
+  {
+   "url": "https://www.harvardhealthonlinelearning.com/appearance/company/a0611996-4724-4802-ac14-f37804f4ca0f--687bff9baa--v2.css",
+   "file": "2e9d3360264e5a.css"
+  },
+  {
+   "url": "https://www.harvardhealthonlinelearning.com/appearance/course/7f1bd835-afc5-464a-9db6-4e47bdf0506f--91e17d942a--v2.css",
+   "file": "48c20fcf977a7a.css"
+  },
+  {
+   "url": "https://www.health.harvard.edu/media/content/images/p2_Cryolipolysis_CoolSculpting_WL1706_ts638761712.jpg",
+   "file": "262274c291e3dd.jpg"
+  },
+  {
+   "url": "https://www.pinterest.com/pin/create/button/?description=I%20just%20completed%20Cosmetic%20Procedures%20on%20Harvard%20Health%20Publishing&amp;url=https%3A%2F%2Fwww.harvardhealthonlinelearning.com%2Fcourses%2Fskin-care-and-repair&amp;media=https%3A%2F%2Fmedia.thoughtindustries.com%2Fthoughtindustries%2Fimage%2Fupload%2Fa_exif%2Cc_lfill%2Cw_600%2Ch_600%2Fv1%2Fcourse-uploads%2Fe1700f87-1740-420f-af5e-5dd0786b819c%2Fmvuucetyka3g-skincareandrepairfeetavatar.jpg",
+   "file": "b9e022a8071dc4.bin"
+  },
+  {
+   "url": "https://www.pinterest.com/pin/create/button/?description=I%20just%20completed%20Cosmetic%20Procedures%20on%20Harvard%20Health%20Publishing&url=https%3A%2F%2Fwww.harvardhealthonlinelearning.com%2Fcourses%2Fskin-care-and-repair&media=https%3A%2F%2Fmedia.thoughtindustries.com%2Fthoughtindustries%2Fimage%2Fupload%2Fa_exif%2Cc_lfill%2Cw_600%2Ch_600%2Fv1%2Fcourse-uploads%2Fe1700f87-1740-420f-af5e-5dd0786b819c%2Fmvuucetyka3g-skincareandrepairfeetavatar.jpg",
+   "file": "0b72443d29cbe3.bin"
+  },
+  {
+   "url": "https://www.pinterest.com/pin/create/button/?description=I%20just%20completed%20Skin%20Cancer%20on%20Harvard%20Health%20Publishing&amp;url=https%3A%2F%2Fwww.harvardhealthonlinelearning.com%2Fcourses%2Fskin-care-and-repair&amp;media=https%3A%2F%2Fmedia.thoughtindustries.com%2Fthoughtindustries%2Fimage%2Fupload%2Fa_exif%2Cc_lfill%2Cw_600%2Ch_600%2Fv1%2Fcourse-uploads%2Fe1700f87-1740-420f-af5e-5dd0786b819c%2Fmvuucetyka3g-skincareandrepairfeetavatar.jpg",
+   "file": "967b6c877c68c2.bin"
+  },
+  {
+   "url": "https://www.pinterest.com/pin/create/button/?description=I%20just%20completed%20Skin%20Cancer%20on%20Harvard%20Health%20Publishing&url=https%3A%2F%2Fwww.harvardhealthonlinelearning.com%2Fcourses%2Fskin-care-and-repair&media=https%3A%2F%2Fmedia.thoughtindustries.com%2Fthoughtindustries%2Fimage%2Fupload%2Fa_exif%2Cc_lfill%2Cw_600%2Ch_600%2Fv1%2Fcourse-uploads%2Fe1700f87-1740-420f-af5e-5dd0786b819c%2Fmvuucetyka3g-skincareandrepairfeetavatar.jpg",
+   "file": "49e2b24c62a1b4.bin"
+  }
+ ]
+}

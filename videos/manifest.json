@@ -1,0 +1,214 @@
+{
+ "videos": [
+  {
+   "id": "0bklqmi7oo",
+   "name": "SKIN-Sec3.mp4",
+   "duration": 187.104,
+   "width": 1280,
+   "height": 720,
+   "mp4_url": "https://embed-ssl.wistia.com/deliveries/8cac3cb8a604908a59cd63f6a08790820493bdab.bin",
+   "still_url": "https://embed-ssl.wistia.com/deliveries/99ec3565bd18bcaadb6c924bbf1483bc68d044c6.bin",
+   "assets": {
+    "original": "https://embed-ssl.wistia.com/deliveries/aaaa38a9d0b04975843536cbcaa26f51.bin",
+    "iphone_video": "https://embed-ssl.wistia.com/deliveries/66a320b218c3b8eb3c63c4d14ddef93ba87b0bb6.bin",
+    "mp4_video": "https://embed-ssl.wistia.com/deliveries/1c0f656ee6f1b300c7c7f30f55029e623d9565a8.bin",
+    "md_mp4_video": "https://embed-ssl.wistia.com/deliveries/748db6822b837a5604f083c6c65733bccc544b81.bin",
+    "hd_mp4_video": "https://embed-ssl.wistia.com/deliveries/8cac3cb8a604908a59cd63f6a08790820493bdab.bin",
+    "still_image": "https://embed-ssl.wistia.com/deliveries/99ec3565bd18bcaadb6c924bbf1483bc68d044c6.bin",
+    "storyboard": "https://embed-ssl.wistia.com/deliveries/4806ce0b4c17c2963d754d9db7e0ed2840522b0e.bin"
+   },
+   "file": "0bklqmi7oo_SKIN-Sec3.mp4",
+   "bytes": 36232779,
+   "still_file": "0bklqmi7oo.jpg",
+   "m3u8": [
+    "https://embed-ssl.wistia.com/deliveries/8cac3cb8a604908a59cd63f6a08790820493bdab.m3u8"
+   ]
+  },
+  {
+   "id": "2dlthe486v",
+   "name": "General Online course instructions.REVISED.mp4",
+   "duration": 140.941,
+   "width": 960,
+   "height": 540,
+   "mp4_url": "https://embed-ssl.wistia.com/deliveries/b7e61e321508fca5652aea06a12832e062f97fe9.bin",
+   "still_url": "https://embed-ssl.wistia.com/deliveries/e490a066d5077afeca85525d39318e7d30665488.bin",
+   "assets": {
+    "original": "https://embed-ssl.wistia.com/deliveries/02063f4776075da9894227d01214a337.bin",
+    "iphone_video": "https://embed-ssl.wistia.com/deliveries/234f696650cb3dfa5c5631834d63931e30001e25.bin",
+    "mp4_video": "https://embed-ssl.wistia.com/deliveries/e2aabdd67da933d2288eb3523f566af3b92eebca.bin",
+    "md_mp4_video": "https://embed-ssl.wistia.com/deliveries/b7e61e321508fca5652aea06a12832e062f97fe9.bin",
+    "still_image": "https://embed-ssl.wistia.com/deliveries/e490a066d5077afeca85525d39318e7d30665488.bin",
+    "storyboard": "https://embed-ssl.wistia.com/deliveries/f0cd264b5d861d05030c9df95fdda500a9eea6ef.bin"
+   },
+   "file": "2dlthe486v_General_Online_course_instructions.REVISED.mp4",
+   "bytes": 6700420,
+   "still_file": "2dlthe486v.jpg",
+   "m3u8": [
+    "https://embed-ssl.wistia.com/deliveries/b7e61e321508fca5652aea06a12832e062f97fe9.m3u8"
+   ]
+  },
+  {
+   "id": "2sxv7eoqv5",
+   "name": "SKIN-Sec2.mp4",
+   "duration": 148.699,
+   "width": 1280,
+   "height": 720,
+   "mp4_url": "https://embed-ssl.wistia.com/deliveries/7eb1e189f3dc2fa7f231bf4358f44a464dec9d76.bin",
+   "still_url": "https://embed-ssl.wistia.com/deliveries/426cd290e67aa7461a2e7464ba6b987d4337d02a.bin",
+   "assets": {
+    "original": "https://embed-ssl.wistia.com/deliveries/30b13554d0750e2ddc6b685f1479a7c8.bin",
+    "iphone_video": "https://embed-ssl.wistia.com/deliveries/0911e8c442036a2a333830b451482a3d846263a0.bin",
+    "mp4_video": "https://embed-ssl.wistia.com/deliveries/47cb9035df99f5d4b4f0e3af0b81bc942cfd00b8.bin",
+    "md_mp4_video": "https://embed-ssl.wistia.com/deliveries/330ee786282441de3b19d064937d3f93baa20c27.bin",
+    "hd_mp4_video": "https://embed-ssl.wistia.com/deliveries/7eb1e189f3dc2fa7f231bf4358f44a464dec9d76.bin",
+    "still_image": "https://embed-ssl.wistia.com/deliveries/426cd290e67aa7461a2e7464ba6b987d4337d02a.bin",
+    "storyboard": "https://embed-ssl.wistia.com/deliveries/23d1d6354f77ec630698556101cb16b828928949.bin"
+   },
+   "file": "2sxv7eoqv5_SKIN-Sec2.mp4",
+   "bytes": 26076942,
+   "still_file": "2sxv7eoqv5.jpg",
+   "m3u8": [
+    "https://embed-ssl.wistia.com/deliveries/7eb1e189f3dc2fa7f231bf4358f44a464dec9d76.m3u8"
+   ]
+  },
+  {
+   "id": "gnlhatugki",
+   "name": "SKIN-Sec4.mp4",
+   "duration": 216.934,
+   "width": 1280,
+   "height": 720,
+   "mp4_url": "https://embed-ssl.wistia.com/deliveries/034a991f0c7b84deb26ff2788c14aa1e397fc0ba.bin",
+   "still_url": "https://embed-ssl.wistia.com/deliveries/2816b1d69a009866750595fb3623044c9d5adc56.bin",
+   "assets": {
+    "original": "https://embed-ssl.wistia.com/deliveries/a3e06986b08020f423ccb7b83d5d4a78.bin",
+    "iphone_video": "https://embed-ssl.wistia.com/deliveries/e7a3b1a7727a8223b9925d7a5ff37ec7309cf7e1.bin",
+    "mp4_video": "https://embed-ssl.wistia.com/deliveries/6d490736acd2868c911563f4daf0edc60b6210ea.bin",
+    "md_mp4_video": "https://embed-ssl.wistia.com/deliveries/75e1106d9f4410aa8f7f624c5f96880480d27a42.bin",
+    "hd_mp4_video": "https://embed-ssl.wistia.com/deliveries/034a991f0c7b84deb26ff2788c14aa1e397fc0ba.bin",
+    "still_image": "https://embed-ssl.wistia.com/deliveries/2816b1d69a009866750595fb3623044c9d5adc56.bin",
+    "storyboard": "https://embed-ssl.wistia.com/deliveries/26561c2b57bea94af90a8d7fe1cb4b1bd50fce09.bin"
+   },
+   "file": "gnlhatugki_SKIN-Sec4.mp4",
+   "bytes": 46983964,
+   "still_file": "gnlhatugki.jpg",
+   "m3u8": [
+    "https://embed-ssl.wistia.com/deliveries/034a991f0c7b84deb26ff2788c14aa1e397fc0ba.m3u8"
+   ]
+  },
+  {
+   "id": "ki3sv0n6d7",
+   "name": "SKIN-Sec6.mp4",
+   "duration": 138.022,
+   "width": 1280,
+   "height": 720,
+   "mp4_url": "https://embed-ssl.wistia.com/deliveries/1da2ba7897c09d484a5f987e5875b9ae80a52036.bin",
+   "still_url": "https://embed-ssl.wistia.com/deliveries/d27bff3698f775da04ebdaaa59f912715363b9f2.bin",
+   "assets": {
+    "original": "https://embed-ssl.wistia.com/deliveries/f56e549e11f17b450c1fc07eeb19aaa9.bin",
+    "iphone_video": "https://embed-ssl.wistia.com/deliveries/d7acf4ec14289ea3003eed2816c8777e9de0f7f4.bin",
+    "mp4_video": "https://embed-ssl.wistia.com/deliveries/c417f49420f7c318ca3d1462ff02706dd149c537.bin",
+    "md_mp4_video": "https://embed-ssl.wistia.com/deliveries/6a74af7dc80e1dad0d98dc46c13777bec70a0e06.bin",
+    "hd_mp4_video": "https://embed-ssl.wistia.com/deliveries/1da2ba7897c09d484a5f987e5875b9ae80a52036.bin",
+    "still_image": "https://embed-ssl.wistia.com/deliveries/d27bff3698f775da04ebdaaa59f912715363b9f2.bin",
+    "storyboard": "https://embed-ssl.wistia.com/deliveries/07ae15bd92859c124c362b5e0bd5ef53b4b5de79.bin"
+   },
+   "file": "ki3sv0n6d7_SKIN-Sec6.mp4",
+   "bytes": 23645471,
+   "still_file": "ki3sv0n6d7.jpg",
+   "m3u8": [
+    "https://embed-ssl.wistia.com/deliveries/1da2ba7897c09d484a5f987e5875b9ae80a52036.m3u8"
+   ]
+  },
+  {
+   "id": "xsz1lnabcw",
+   "name": "SKIN-Sec5.mp4",
+   "duration": 179.53,
+   "width": 1280,
+   "height": 720,
+   "mp4_url": "https://embed-ssl.wistia.com/deliveries/824f11e3bf433816f9d6dcbec120b20f1cc1a237.bin",
+   "still_url": "https://embed-ssl.wistia.com/deliveries/8b14d0c136d8b6b555349396944c6181ece58339.bin",
+   "assets": {
+    "original": "https://embed-ssl.wistia.com/deliveries/d57d329c761e34b1b911e708f2eaded3.bin",
+    "iphone_video": "https://embed-ssl.wistia.com/deliveries/1ded437bbc2601d53350b24b4a5cb8c71c9f54c6.bin",
+    "mp4_video": "https://embed-ssl.wistia.com/deliveries/45a8316123347e152df593eb902daaabc90ee6e5.bin",
+    "md_mp4_video": "https://embed-ssl.wistia.com/deliveries/ab8c1a38eab8dbc2c7b63f542f9411dc18a551a7.bin",
+    "hd_mp4_video": "https://embed-ssl.wistia.com/deliveries/824f11e3bf433816f9d6dcbec120b20f1cc1a237.bin",
+    "still_image": "https://embed-ssl.wistia.com/deliveries/8b14d0c136d8b6b555349396944c6181ece58339.bin",
+    "storyboard": "https://embed-ssl.wistia.com/deliveries/9834b0181c2394ae3cfd57995555c089f1b4f8fc.bin"
+   },
+   "file": "xsz1lnabcw_SKIN-Sec5.mp4",
+   "bytes": 36137299,
+   "still_file": "xsz1lnabcw.jpg",
+   "m3u8": [
+    "https://embed-ssl.wistia.com/deliveries/824f11e3bf433816f9d6dcbec120b20f1cc1a237.m3u8"
+   ]
+  },
+  {
+   "id": "zvtxgacphq",
+   "name": "Skin-Sec1.mp4",
+   "duration": 239.657,
+   "width": 1280,
+   "height": 720,
+   "mp4_url": "https://embed-ssl.wistia.com/deliveries/bc6131b6574f6c423c5278506bffc0cb3ea46eed.bin",
+   "still_url": "https://embed-ssl.wistia.com/deliveries/0d89027e5831bdf34d61447efca7aa43106de75e.bin",
+   "assets": {
+    "original": "https://embed-ssl.wistia.com/deliveries/e7b20d0959bcc5cb02ba8fb84f6db56e.bin",
+    "iphone_video": "https://embed-ssl.wistia.com/deliveries/4f007b4fde48968a250bd196b0d4f1224f7f6144.bin",
+    "mp4_video": "https://embed-ssl.wistia.com/deliveries/bfedd22093c0ed59d4aafbbe3705a7fffb8c1aa5.bin",
+    "md_mp4_video": "https://embed-ssl.wistia.com/deliveries/849fd6f3d1d1d61b5712bf114f9932f13bf2c2e2.bin",
+    "hd_mp4_video": "https://embed-ssl.wistia.com/deliveries/bc6131b6574f6c423c5278506bffc0cb3ea46eed.bin",
+    "still_image": "https://embed-ssl.wistia.com/deliveries/0d89027e5831bdf34d61447efca7aa43106de75e.bin",
+    "storyboard": "https://embed-ssl.wistia.com/deliveries/cfb48455559319414b9ec3f6a2bc2952629f5b5e.bin"
+   },
+   "file": "zvtxgacphq_Skin-Sec1.mp4",
+   "bytes": 53228725,
+   "still_file": "zvtxgacphq.jpg",
+   "m3u8": [
+    "https://embed-ssl.wistia.com/deliveries/bc6131b6574f6c423c5278506bffc0cb3ea46eed.m3u8"
+   ]
+  }
+ ],
+ "hash_to_video": {
+  "66a320b218c3b8eb3c63c4d14ddef93ba87b0bb6": "0bklqmi7oo",
+  "1c0f656ee6f1b300c7c7f30f55029e623d9565a8": "0bklqmi7oo",
+  "748db6822b837a5604f083c6c65733bccc544b81": "0bklqmi7oo",
+  "8cac3cb8a604908a59cd63f6a08790820493bdab": "0bklqmi7oo",
+  "99ec3565bd18bcaadb6c924bbf1483bc68d044c6": "0bklqmi7oo",
+  "4806ce0b4c17c2963d754d9db7e0ed2840522b0e": "0bklqmi7oo",
+  "234f696650cb3dfa5c5631834d63931e30001e25": "2dlthe486v",
+  "e2aabdd67da933d2288eb3523f566af3b92eebca": "2dlthe486v",
+  "b7e61e321508fca5652aea06a12832e062f97fe9": "2dlthe486v",
+  "e490a066d5077afeca85525d39318e7d30665488": "2dlthe486v",
+  "f0cd264b5d861d05030c9df95fdda500a9eea6ef": "2dlthe486v",
+  "0911e8c442036a2a333830b451482a3d846263a0": "2sxv7eoqv5",
+  "47cb9035df99f5d4b4f0e3af0b81bc942cfd00b8": "2sxv7eoqv5",
+  "330ee786282441de3b19d064937d3f93baa20c27": "2sxv7eoqv5",
+  "7eb1e189f3dc2fa7f231bf4358f44a464dec9d76": "2sxv7eoqv5",
+  "426cd290e67aa7461a2e7464ba6b987d4337d02a": "2sxv7eoqv5",
+  "23d1d6354f77ec630698556101cb16b828928949": "2sxv7eoqv5",
+  "e7a3b1a7727a8223b9925d7a5ff37ec7309cf7e1": "gnlhatugki",
+  "6d490736acd2868c911563f4daf0edc60b6210ea": "gnlhatugki",
+  "75e1106d9f4410aa8f7f624c5f96880480d27a42": "gnlhatugki",
+  "034a991f0c7b84deb26ff2788c14aa1e397fc0ba": "gnlhatugki",
+  "2816b1d69a009866750595fb3623044c9d5adc56": "gnlhatugki",
+  "26561c2b57bea94af90a8d7fe1cb4b1bd50fce09": "gnlhatugki",
+  "d7acf4ec14289ea3003eed2816c8777e9de0f7f4": "ki3sv0n6d7",
+  "c417f49420f7c318ca3d1462ff02706dd149c537": "ki3sv0n6d7",
+  "6a74af7dc80e1dad0d98dc46c13777bec70a0e06": "ki3sv0n6d7",
+  "1da2ba7897c09d484a5f987e5875b9ae80a52036": "ki3sv0n6d7",
+  "d27bff3698f775da04ebdaaa59f912715363b9f2": "ki3sv0n6d7",
+  "07ae15bd92859c124c362b5e0bd5ef53b4b5de79": "ki3sv0n6d7",
+  "1ded437bbc2601d53350b24b4a5cb8c71c9f54c6": "xsz1lnabcw",
+  "45a8316123347e152df593eb902daaabc90ee6e5": "xsz1lnabcw",
+  "ab8c1a38eab8dbc2c7b63f542f9411dc18a551a7": "xsz1lnabcw",
+  "824f11e3bf433816f9d6dcbec120b20f1cc1a237": "xsz1lnabcw",
+  "8b14d0c136d8b6b555349396944c6181ece58339": "xsz1lnabcw",
+  "9834b0181c2394ae3cfd57995555c089f1b4f8fc": "xsz1lnabcw",
+  "4f007b4fde48968a250bd196b0d4f1224f7f6144": "zvtxgacphq",
+  "bfedd22093c0ed59d4aafbbe3705a7fffb8c1aa5": "zvtxgacphq",
+  "849fd6f3d1d1d61b5712bf114f9932f13bf2c2e2": "zvtxgacphq",
+  "bc6131b6574f6c423c5278506bffc0cb3ea46eed": "zvtxgacphq",
+  "0d89027e5831bdf34d61447efca7aa43106de75e": "zvtxgacphq",
+  "cfb48455559319414b9ec3f6a2bc2952629f5b5e": "zvtxgacphq"
+ }
+}
