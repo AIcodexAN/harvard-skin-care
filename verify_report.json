@@ -39,6 +39,7 @@
    "audioTracks": null,
    "hasAudio": null
   },
-  "note": "剩余 16 个 ERR_ABORTED 均指向 MP4，是 preload=metadata 的中止行为，非资源损坏"
+  "note": "剩余 ERR_ABORTED 均指向 MP4，是 preload=metadata 的中止行为；域根 /favicon.ico 探测已由 index.html 显式声明图标消除",
+  "index_favicon_link_added": true
  }
 }
