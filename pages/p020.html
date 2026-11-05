@@ -464,4 +464,115 @@ Notes
 .hh-media { margin:18px 0; padding:14px; border:1px solid #e3e3e3; border-radius:8px;
   background:#fafafa; }
 .hh-media h3 { margin:0 0 10px; font-size:16px; }
-</style></body></html>
+</style>
+
+<style id="wb-expand-fix">
+/* 1. 正文中所有折叠描述：默认完整展开 */
+.topic__list__description,
+[id^="list-item-description-"],
+.topic__container .collapsible__content,
+.topic__container .accordion__content{
+  display:block!important;visibility:visible!important;
+  height:auto!important;max-height:none!important;min-height:0!important;
+  opacity:1!important;overflow:visible!important;transform:none!important;
+  position:static!important;clip:auto!important;
+  padding-top:.4em;padding-bottom:.4em;
+}
+/* 2. 侧栏折叠面板（Lessons / Progress / Resources） */
+.expandable-sidebar__content{
+  display:block!important;visibility:visible!important;
+  height:auto!important;max-height:520px!important;opacity:1!important;
+  overflow:auto!important;transform:none!important;
+}
+/* 3. 正文里被 aria-hidden / hidden 藏住的内容块（翻转卡背面等） */
+.topic__container [aria-hidden="true"],
+.topic__container [hidden],
+.topic__container [style*="display:none"],
+.topic__container [style*="display: none"]{
+  display:block!important;visibility:visible!important;
+  height:auto!important;max-height:none!important;opacity:1!important;
+  overflow:visible!important;transform:none!important;
+}
+/* 4. 保护：幻灯片切换块必须继续由 slideshow 脚本控制 */
+.topic__container .wb-ss-slide[hidden],
+.topic__container .wb-ss-slide.wb-ss-hidden{display:none!important}
+.topic__container .slide__preloader{display:none!important}
+/* 5. 点击收起后的状态（inline !important 优先级更高，这里做双保险） */
+.wb-collapsed,.wb-collapsed[aria-hidden]{display:none!important;visibility:hidden!important}
+/* 6. 说明条 */
+.wb-expand-note{
+  background:#eef6ff;border-left:4px solid #2f6fb3;color:#1d3f66;
+  font:14px/1.7 -apple-system,BlinkMacSystemFont,"Microsoft YaHei",sans-serif;
+  padding:10px 14px;margin:0 0 18px;border-radius:0 4px 4px 0;
+}
+.wb-expand-note b{color:#123a68}
+button[aria-controls]{cursor:pointer}
+@media print{.wb-expand-note{display:none!important}}
+</style>
+
+
+<script id="wb-expand-js">
+(function(){
+  var q=function(s,r){return [].slice.call((r||document).querySelectorAll(s))};
+  var expanded=0;
+  function label(b){return b.querySelector('[id^="list-item-button-text"],#i18n-9')}
+  function setLab(b,open){var l=label(b);if(!l)return;
+    if(/^(expand|collapse)$/i.test(l.textContent.trim()))l.textContent=open?'Collapse':'Expand'}
+
+  /* 统一的开合逻辑：状态只认面板自己的 class，避免同一按钮被绑定两次互相打架 */
+  function bind(b,p,countIt){
+    if(!p||p.classList.contains('wb-ss-slide')||p.dataset.wbBound)return;
+    p.dataset.wbBound='1';
+    p.classList.add('wb-expanded');p.classList.remove('wb-collapsed');
+    p.removeAttribute('aria-hidden');
+    p.style.removeProperty('display');
+    b.setAttribute('aria-expanded','true');
+    setLab(b,true);
+    if(countIt)expanded++;
+    b.addEventListener('click',function(e){
+      if(e.__wbDone)return;              /* 一个事件只处理一次 */
+      e.__wbDone=true;
+      e.preventDefault();e.stopPropagation();
+      var collapsed=p.classList.contains('wb-collapsed');
+      if(collapsed){
+        p.classList.remove('wb-collapsed');p.classList.add('wb-expanded');
+        p.style.removeProperty('display');
+        b.setAttribute('aria-expanded','true');setLab(b,true);
+      }else{
+        p.classList.add('wb-collapsed');p.classList.remove('wb-expanded');
+        p.style.setProperty('display','none','important');
+        b.setAttribute('aria-expanded','false');setLab(b,false);
+      }
+    },true);
+  }
+
+  /* A. 正文折叠按钮（Expand / Collapse），侧栏按钮交给 B */
+  q('button[aria-controls]').forEach(function(b){
+    if(b.classList.contains('expandable-sidebar__link'))return;
+    var p=document.getElementById(b.getAttribute('aria-controls'));
+    if(p)bind(b,p,true);
+  });
+
+  /* B. 侧栏 accordion（Progress / Lessons / Resources） */
+  q('.expandable-sidebar__link[aria-expanded]').forEach(function(b){
+    var host=b.closest?b.closest('.expandable-sidebar'):null;
+    if(!host){var n=b.parentNode;for(var i=0;i<4&&n;i++){n=n.parentNode;
+      if(n&&n.querySelector&&n.querySelector('.expandable-sidebar__content')){host=n;break}}}
+    var p=host?host.querySelector('.expandable-sidebar__content'):null;
+    if(!p&&b.getAttribute('aria-controls'))p=document.getElementById(b.getAttribute('aria-controls'));
+    if(p)bind(b,p,false);
+  });
+
+  /* C. 说明条 */
+  if(expanded){
+    var note=document.createElement('div');
+    note.className='wb-expand-note';
+    note.innerHTML='本页 <b>'+expanded+'</b> 处折叠内容已全部展开（离线可用）。'
+      +'点击每项的「Collapse / Expand」可单独收起或展开；左侧 Resources / Lessons / Progress 也已可点开。';
+    var main=document.querySelector('.topic__container');
+    if(main)main.insertBefore(note,main.firstChild);
+  }
+})();
+</script>
+
+</body></html>

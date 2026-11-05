@@ -76,11 +76,38 @@
    "effect": "native offline slideshow: full photo + caption side by side, Prev/Next cycles the 2 saved slides, counter shows real count, invalid Play Audio replaced by notice, stale 5-dot index hidden",
    "verification": "headless Edge CDP: 5/5 pages 2 slides, 0 broken images, Next -> slide 2 (image 1400px), Prev -> slide 1, caption scrollHeight==clientHeight",
    "missing": "3 more slides per 5-slide page (5 more on p058) and all per-slide audio; source site login expired (Purchase Required), needs fresh signed-in browser session to re-capture"
+  },
+  "expand_all": {
+   "pages": 87,
+   "fold_controls": 383,
+   "fold_descriptions": 206,
+   "css_id": "wb-expand-fix",
+   "js_id": "wb-expand-js",
+   "effect": "all collapsed body text visible by default; native expand/collapse clickable"
+  },
+  "slideshow_full": {
+   "pages": {
+    "p047.html": 5,
+    "p054.html": 5,
+    "p058.html": 7,
+    "p075.html": 5,
+    "p082.html": 5
+   },
+   "images": 27,
+   "audio": 27,
+   "bytes": 45899755,
+   "effect": "full slide count, original captions and per-slide mp3 players"
   }
  },
  "redeploy": {
   "at": "2026-11-06 04:58:04",
   "reason": "slideshow offline fix",
   "note": "publish latest local archive"
+ },
+ "full_completion": {
+  "at": "2026-11-06 06:26:35",
+  "checks_passed": 8,
+  "report": "verify_final_report.json (workspace root)",
+  "note": "all 87 pages checked; source-side audit confirmed no additional hidden body text"
  }
 }
