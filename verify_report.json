@@ -51,6 +51,16 @@
    "p073.html"
   ],
   "avatar_fix": "width:auto;height:auto;object-fit:contain",
-  "image_files_integrity": "355 images: all JPEG EOI / PNG IEND / PIL decode OK"
+  "image_files_integrity": "355 images: all JPEG EOI / PNG IEND / PIL decode OK",
+  "flipcard_fix": {
+   "verified_at": "2026-11-06 04:10:47",
+   "pages_changed": 11,
+   "css_id": "wb-flipcard-fix",
+   "root_cause": "flip-card__front is position:absolute with inline height:90.6667px; resource__title is absolute bottom:0 min-height:60px black bar covering the photo; flip-card__back hidden by opacity:0/rotateY with no JS to flip",
+   "effect": "photo fully visible, title below photo, back biography readable, flip button hidden",
+   "visual_check": "screenshots shot_p013_after.png / shot_p073_after.png confirmed by image review",
+   "images_checked": 75,
+   "ratio_distorted": 0
+  }
  }
 }
