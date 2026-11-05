@@ -2545,22 +2545,12 @@
   {
    "url": "https://www.health.harvard.edu/media/content/images/p2_Cryolipolysis_CoolSculpting_WL1706_ts638761712.jpg",
    "file": "262274c291e3dd.jpg"
-  },
-  {
-   "url": "https://www.pinterest.com/pin/create/button/?description=I%20just%20completed%20Cosmetic%20Procedures%20on%20Harvard%20Health%20Publishing&amp;url=https%3A%2F%2Fwww.harvardhealthonlinelearning.com%2Fcourses%2Fskin-care-and-repair&amp;media=https%3A%2F%2Fmedia.thoughtindustries.com%2Fthoughtindustries%2Fimage%2Fupload%2Fa_exif%2Cc_lfill%2Cw_600%2Ch_600%2Fv1%2Fcourse-uploads%2Fe1700f87-1740-420f-af5e-5dd0786b819c%2Fmvuucetyka3g-skincareandrepairfeetavatar.jpg",
-   "file": "b9e022a8071dc4.bin"
-  },
-  {
-   "url": "https://www.pinterest.com/pin/create/button/?description=I%20just%20completed%20Cosmetic%20Procedures%20on%20Harvard%20Health%20Publishing&url=https%3A%2F%2Fwww.harvardhealthonlinelearning.com%2Fcourses%2Fskin-care-and-repair&media=https%3A%2F%2Fmedia.thoughtindustries.com%2Fthoughtindustries%2Fimage%2Fupload%2Fa_exif%2Cc_lfill%2Cw_600%2Ch_600%2Fv1%2Fcourse-uploads%2Fe1700f87-1740-420f-af5e-5dd0786b819c%2Fmvuucetyka3g-skincareandrepairfeetavatar.jpg",
-   "file": "0b72443d29cbe3.bin"
-  },
-  {
-   "url": "https://www.pinterest.com/pin/create/button/?description=I%20just%20completed%20Skin%20Cancer%20on%20Harvard%20Health%20Publishing&amp;url=https%3A%2F%2Fwww.harvardhealthonlinelearning.com%2Fcourses%2Fskin-care-and-repair&amp;media=https%3A%2F%2Fmedia.thoughtindustries.com%2Fthoughtindustries%2Fimage%2Fupload%2Fa_exif%2Cc_lfill%2Cw_600%2Ch_600%2Fv1%2Fcourse-uploads%2Fe1700f87-1740-420f-af5e-5dd0786b819c%2Fmvuucetyka3g-skincareandrepairfeetavatar.jpg",
-   "file": "967b6c877c68c2.bin"
-  },
-  {
-   "url": "https://www.pinterest.com/pin/create/button/?description=I%20just%20completed%20Skin%20Cancer%20on%20Harvard%20Health%20Publishing&url=https%3A%2F%2Fwww.harvardhealthonlinelearning.com%2Fcourses%2Fskin-care-and-repair&media=https%3A%2F%2Fmedia.thoughtindustries.com%2Fthoughtindustries%2Fimage%2Fupload%2Fa_exif%2Cc_lfill%2Cw_600%2Ch_600%2Fv1%2Fcourse-uploads%2Fe1700f87-1740-420f-af5e-5dd0786b819c%2Fmvuucetyka3g-skincareandrepairfeetavatar.jpg",
-   "file": "49e2b24c62a1b4.bin"
   }
+ ],
+ "removed_orphans": [
+  "b9e022a8071dc4.bin",
+  "0b72443d29cbe3.bin",
+  "967b6c877c68c2.bin",
+  "49e2b24c62a1b4.bin"
  ]
 }
