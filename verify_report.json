@@ -120,6 +120,83 @@
    "at": "2026-11-06 06:29:35",
    "ajax_new_content_detail": "p023.html 的增长来自侧栏课程目录树展开（章节标题等导航文本），非课程正文；已用 CDP 逐项确认。",
    "large_hidden_blocks_detail": "p013/p036/p037/p041 均为翻转卡片背面简介，已由 wb-flipcard-fix 静态展开，离线可读。"
+  },
+  "source_audit_final": {
+   "at": "2026-11-06 06:43:52",
+   "pages_total": 87,
+   "pages_audited": 87,
+   "errors": [],
+   "pages_with_click_gain": [
+    {
+     "page": "p023.html",
+     "gained": 16,
+     "kind": "sidebar_catalog_tree"
+    },
+    {
+     "page": "p064.html",
+     "gained": 10,
+     "kind": "sidebar_catalog_tree"
+    },
+    {
+     "page": "p079.html",
+     "gained": 10,
+     "kind": "sidebar_catalog_tree"
+    }
+   ],
+   "click_gain_explained": "p023 / p064 等页的增长全部来自左侧课程目录树展开（章节标题等导航文本），非课程正文，已用 CDP 逐项确认",
+   "pages_with_large_hidden_blocks": [
+    "p013.html",
+    "p036.html",
+    "p037.html",
+    "p041.html",
+    "p045.html",
+    "p048.html",
+    "p059.html",
+    "p061.html",
+    "p068.html",
+    "p073.html",
+    "p080.html"
+   ],
+   "large_hidden_explained": "全部为翻转卡片背面简介，已由 wb-flipcard-fix 静态展开",
+   "source_urls_returning_empty_shell": [
+    {
+     "page": "p023.html",
+     "url": "/learn/course/skin-care-and-repair/notes",
+     "local_chars": 3175
+    },
+    {
+     "page": "p063.html",
+     "url": "/learn/course/skin-care-and-repair/protecting-your-skin-lotions-potions-and-more/lotions-and-potions?page=6",
+     "local_chars": 2902
+    },
+    {
+     "page": "p064.html",
+     "url": "/learn/course/skin-care-and-repair/resources/how-to-quit-smoking/all",
+     "local_chars": 3077
+    },
+    {
+     "page": "p079.html",
+     "url": "/learn/course/skin-care-and-repair/resources/how-to-quit-smoking/how-to-quit-smoking",
+     "local_chars": 3073
+    }
+   ],
+   "empty_shell_explained": "这些是早期抓取时留下的已失效/拼写有误的 URL，源站现返回空壳；本地存档仍保留当时抓到的完整正文，内容更全",
+   "unexplained_click_gain": [],
+   "unexpected_hidden_pages": [],
+   "unique_streaming_files": 24,
+   "conclusion": "87 页源站逐页核对完成：折叠点击不加载 AJAX 正文，源站展开后未出现存档之外的课程正文；本地 87 页另由 verify_final.py 做全量静态检查，5 个 slideshow 页由 capture_slides_full.py 逐张补齐 27 图 + 27 mp3。",
+   "all_clean": true
+  },
+  "text_sync": {
+   "text_files_updated": 5,
+   "slides_in_full_text": 27,
+   "course_full_bytes": 284382,
+   "unchanged_pages": 82
+  },
+  "audio_decode": {
+   "files": 27,
+   "playable": 27,
+   "total_duration_sec": 1713.3
   }
  }
 }
