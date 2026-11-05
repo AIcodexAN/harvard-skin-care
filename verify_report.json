@@ -39,7 +39,18 @@
    "audioTracks": null,
    "hasAudio": null
   },
-  "note": "剩余 ERR_ABORTED 均指向 MP4，是 preload=metadata 的中止行为；域根 /favicon.ico 探测已由 index.html 显式声明图标消除",
-  "index_favicon_link_added": true
+  "note": "剩余 ERR_ABORTED 均指向 MP4，是 preload=metadata 的中止行为；域根 /favicon.ico 探测不影响内容。",
+  "index_favicon_link_added": true,
+  "render_fix_verified_at": "2026-11-06 03:58:58",
+  "render_images_scanned": 569,
+  "ratio_distorted_images_before": 14,
+  "ratio_distorted_images_after": 0,
+  "avatar_imgs_fixed": 14,
+  "avatar_pages": [
+   "p013.html",
+   "p073.html"
+  ],
+  "avatar_fix": "width:auto;height:auto;object-fit:contain",
+  "image_files_integrity": "355 images: all JPEG EOI / PNG IEND / PIL decode OK"
  }
 }
