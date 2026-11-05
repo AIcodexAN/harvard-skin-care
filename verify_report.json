@@ -61,14 +61,26 @@
    "visual_check": "screenshots shot_p013_after.png / shot_p073_after.png confirmed by image review",
    "images_checked": 75,
    "ratio_distorted": 0
+  },
+  "slideshow_fix": {
+   "verified_at": "2026-11-06 04:58:04",
+   "pages_changed": [
+    "p047.html",
+    "p054.html",
+    "p058.html",
+    "p075.html",
+    "p082.html"
+   ],
+   "css_id": "wb-slideshow-fix",
+   "root_cause": "Original SPA slideshow renders only current slide + one preloaded picture; archive saved 2 images and 1 caption, no audio files; sidebar overflow:auto clipped the caption; Ember Prev/Next buttons had no JS offline",
+   "effect": "native offline slideshow: full photo + caption side by side, Prev/Next cycles the 2 saved slides, counter shows real count, invalid Play Audio replaced by notice, stale 5-dot index hidden",
+   "verification": "headless Edge CDP: 5/5 pages 2 slides, 0 broken images, Next -> slide 2 (image 1400px), Prev -> slide 1, caption scrollHeight==clientHeight",
+   "missing": "3 more slides per 5-slide page (5 more on p058) and all per-slide audio; source site login expired (Purchase Required), needs fresh signed-in browser session to re-capture"
   }
  },
  "redeploy": {
-  "at": "2026-11-06 04:33:54",
-  "reason": "user requested re-upload",
-  "pages": 87,
-  "videos": 7,
-  "assets": 390,
-  "content_hash_note": "same bytes as d48928f"
+  "at": "2026-11-06 04:58:04",
+  "reason": "slideshow offline fix",
+  "note": "publish latest local archive"
  }
 }
