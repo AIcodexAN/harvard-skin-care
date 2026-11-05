@@ -62,5 +62,13 @@
    "images_checked": 75,
    "ratio_distorted": 0
   }
+ },
+ "redeploy": {
+  "at": "2026-11-06 04:33:54",
+  "reason": "user requested re-upload",
+  "pages": 87,
+  "videos": 7,
+  "assets": 390,
+  "content_hash_note": "same bytes as d48928f"
  }
 }
