@@ -108,6 +108,18 @@
   "at": "2026-11-06 06:26:35",
   "checks_passed": 8,
   "report": "verify_final_report.json (workspace root)",
-  "note": "all 87 pages checked; source-side audit confirmed no additional hidden body text"
+  "note": "all 87 pages checked; source-side audit confirmed no additional hidden body text",
+  "source_audit": {
+   "source_pages_audited": 43,
+   "pages_with_ajax_new_content": 1,
+   "pages_with_large_hidden_blocks": 4,
+   "unique_streaming_files": 14,
+   "errors": [],
+   "conclusion": "43 页源站逐页核对 + 87 页本地全量静态检查：折叠点击不加载 AJAX 正文，源站展开后无存档之外的正文；隐藏块为后台提示与已修复的翻转卡背面。",
+   "note": "本地 87 页另由 verify_final.py 做全量静态检查；5 个 slideshow 页由 capture_slides_full.py 逐张核对补齐。",
+   "at": "2026-11-06 06:29:35",
+   "ajax_new_content_detail": "p023.html 的增长来自侧栏课程目录树展开（章节标题等导航文本），非课程正文；已用 CDP 逐项确认。",
+   "large_hidden_blocks_detail": "p013/p036/p037/p041 均为翻转卡片背面简介，已由 wb-flipcard-fix 静态展开，离线可读。"
+  }
  }
 }
